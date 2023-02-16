@@ -1,6 +1,5 @@
-# Visite au Musée "Arsenal Art Contemporain"
+# Motto "Une curieuse aventure qui traverse les murs"
 
-[![Capture-d-cran-le-2023-02-16-00-29-36.png](https://i.postimg.cc/k4pnWsCK/Capture-d-cran-le-2023-02-16-00-29-36.png)](https://postimg.cc/qh2VT8zv)
 
 ### Nom de l'exposition ou de l'événement
 
