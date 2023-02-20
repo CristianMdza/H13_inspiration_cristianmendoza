@@ -48,12 +48,15 @@
 
 ### Mise en espace
 
-- Un téléphone intelligent, c’est tout.
+- Les utilisateurs ont besoin d'un téléphone intelligent et un bon environnement autour d'eux. 
 
 ### Composantes et techniques 
 
 - Ce livre interactif a des nouvelles technologies aux plus anciennes (texte, image, algorithme). 
 - Il collection milliers de vidéos qu’ont été filmés par les utilisateurs. 
+
+[![IMG-6067.png](https://i.postimg.cc/wBThzBzV/IMG-6067.png)](https://postimg.cc/K1wKrxRk)
+
 
 ### Éléments nécessaires à la mise en exposition
 
