@@ -16,7 +16,7 @@
 
 - Cette exposition est présentée de manière virtuelle, plus exactement, depuis un telephone intelligent. 
 
-   [![IMG-6059.png](https://i.postimg.cc/JnCqNx86/IMG-6059.png)](https://postimg.cc/wtFLHh7L)
+   [![IMG-6059.png](https://i.postimg.cc/JnCqNx86/IMG-6059.png)](https://postimg.cc/wtFLHh7L)  [![IMG-6060.png](https://i.postimg.cc/j5cLsqCR/IMG-6060.png)](https://postimg.cc/tZ1Xkjhc)
 
 ### Date de la visite 
 
@@ -55,11 +55,13 @@
 - Ce livre interactif a des nouvelles technologies aux plus anciennes (texte, image, algorithme). 
 - Il collection milliers de vidéos qu’ont été filmés par les utilisateurs. 
 
-[![IMG-6067.png](https://i.postimg.cc/wBThzBzV/IMG-6067.png)](https://postimg.cc/K1wKrxRk)
+
+  [![IMG-6067.png](https://i.postimg.cc/XNBRSHPz/IMG-6067.png)](https://postimg.cc/ThG7n9fV)[![IMG-6062.png](https://i.postimg.cc/Gmt9b11C/IMG-6062.png)](https://postimg.cc/xXr9PhCx)[![IMG-6066.png](https://i.postimg.cc/FK2xjZxY/IMG-6066.png)](https://postimg.cc/NykTtRSt)
 
 
 ### Éléments nécessaires à la mise en exposition
 
+- Il faut avoir en premier quelques téléphones intelligents, wifi, un endroit fermé ou ouvert, minimaliste, des tables, des chaisses, des sofas afin que les gens peuvent interagir avec cette application.
 
 
 ### Expérience vécue
