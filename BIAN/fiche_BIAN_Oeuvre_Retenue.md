@@ -40,8 +40,6 @@
 
 - Motto est un livre interactif exclusivement pour les téléphones intelligents. Là, on trouve de milliers de courts vidéos ou les utilisateurs documentent leurs réalités ou simplement filmant quelque chose de fiction.  
 
-
-
 ### Type d'installation 
 
 - Son type d'intallation est interactive. 
@@ -81,5 +79,18 @@
 
 
 
-### Aspect pas souhaité à retenir et Aspect que je fairais autrement
+### Aspect pas souhaité à retenir ou Aspect que je fairais autrement
 
+- Je n'ai pas aimé que cette application ne fonctionne que sur les téléphones.
+- Je mettrais également cette application sur des tablettes et des ordinateurs intelligents.
+- J'implémmenterais une icône pour rechercher la chanson que nous voulons ajouter à notre vidéo, ainsi que des filtres, un icône des mains libres et d'autres choses qui pourraient faire de Motto une meilleure application.
+
+
+### Sources
+
+- 1). Cédric Mal, << Motto : entrez dans les coulisses de la création de la nouvelle aventure de Vincent Morisset >>, site web du Conseil national du film du Canadá, 30 Novembre 2020. https://blogue.onf.ca/blogue/2020/11/30/etude-de-cas-motto/
+
+
+- 2). Wikipédia, << Biographie Vincent Morisset >>, 4 juillet 2021. https://fr.wikipedia.org/wiki/Vincent_Morisset
+
+- 3). Site officiel de l'application: https://www.motto.io
