@@ -1,6 +1,6 @@
 # Motto "un monde virtuel"
 
-[![Capture-d-cran-le-2023-02-16-12-26-24.png](https://i.postimg.cc/rwtFBN6N/Capture-d-cran-le-2023-02-16-12-26-24.png)](https://postimg.cc/w1gpJJj1)
+  [![Capture-d-cran-le-2023-02-16-12-26-24.png](https://i.postimg.cc/rwtFBN6N/Capture-d-cran-le-2023-02-16-12-26-24.png)](https://postimg.cc/w1gpJJj1)
 
 ### Nom de l'exposition ou de l'événement:
 
@@ -66,9 +66,18 @@
 
 ### Expérience vécue
 
-- J'ai bien aimé ce livre interactif, j’ai pu filmer des choses bizarres qui passent par ma tête, aussi des vidéos sur moi anonymes. Ça t’inverse dans un monde imaginaire.   
+- J'ai bien aimé ce livre interactif, j’ai pu filmer des choses bizarres qui passent par ma tête, aussi des vidéos sur moi anonymes. Ça t’inverse dans un monde imaginaire.  
 
-### Ce qui m"a donné des idées
+
+- Voici quelques captures de mon expérience avec Motto depuis mon téléphone:
+
+  [![IMG-6075.png](https://i.postimg.cc/1tRs9pLj/IMG-6075.png)](https://postimg.cc/cKzVh81R) [![IMG-6074.png](https://i.postimg.cc/TYP8pdNp/IMG-6074.png)](https://postimg.cc/3WzfqTTT) [![IMG-6064.png](https://i.postimg.cc/25Q90M9s/IMG-6064.png)](https://postimg.cc/bGvRJChg)
+
+### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
+
+- Ce que j'ai aimé dans cette application, c'est la variété de vidéos étranges. En outre, j'ai bien aimé voir ce que beaucoup de gens filment. Cette application m'a permis d'apprendre le quotidien de diverses cultures à travers le monde et m'a donné l'idée de filmer ce que je fais pour qu'eux aussi voient un peu de ma culture.
+
+- Par contre, les textes avec des phrases simples et les fonds blancs me semblaient très minimalistes, cela nous fait nous immerger dans un monde différent.
 
 
 
