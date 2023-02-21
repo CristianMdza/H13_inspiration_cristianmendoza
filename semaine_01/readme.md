@@ -1,1 +1,4 @@
-Fiche de preséntation photo
+### Exercice semaine 1 : Fiche de Présentation
+
+- Fiche.
+- Photographie.
