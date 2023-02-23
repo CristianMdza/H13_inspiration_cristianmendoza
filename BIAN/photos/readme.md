@@ -22,30 +22,30 @@
 
 [![Capture-d-cran-le-2023-02-19-19-54-50.png](https://i.postimg.cc/DzNQvKBb/Capture-d-cran-le-2023-02-19-19-54-50.png)](https://postimg.cc/5HwQgDcx)
 
-### 6). Dimension: 640 x 480 
+### 6). 
 
 [![IMG-6067.png](https://i.postimg.cc/XNBRSHPz/IMG-6067.png)](https://postimg.cc/ThG7n9fV)
 
-### 7). Dimension: 640 x 480
+### 7). 
 
 [![IMG-6062.png](https://i.postimg.cc/Gmt9b11C/IMG-6062.png)](https://postimg.cc/xXr9PhCx)
 
-### 8). Dimension: 640 x 480
+### 8). 
 
 [![IMG-6066.png](https://i.postimg.cc/FK2xjZxY/IMG-6066.png)](https://postimg.cc/NykTtRSt)
 
-### 9). Dimension: 640 x 480
+### 9). 
 
 [![IMG-6075.png](https://i.postimg.cc/1tRs9pLj/IMG-6075.png)](https://postimg.cc/cKzVh81R)
 
-### 10). Dimension: 640 x 480
+### 10). 
 
 [![IMG-6074.png](https://i.postimg.cc/TYP8pdNp/IMG-6074.png)](https://postimg.cc/3WzfqTTT)
 
-### 11). Dimension: 640 x 480
+### 11). 
 
 [![IMG-6064.png](https://i.postimg.cc/25Q90M9s/IMG-6064.png)](https://postimg.cc/bGvRJChg)
 
-### 12). Dimension: 1600 x 1200
+### 12). 
 
 [![IMG-6084.png](https://i.postimg.cc/SN78LXD4/IMG-6084.png)](https://postimg.cc/Yh0hMC5D)
