@@ -46,4 +46,6 @@
 
 [![IMG-6064.png](https://i.postimg.cc/25Q90M9s/IMG-6064.png)](https://postimg.cc/bGvRJChg)
 
+### 12). Dimension: 1600 x 1200
 
+[![IMG-6084.png](https://i.postimg.cc/SN78LXD4/IMG-6084.png)](https://postimg.cc/Yh0hMC5D)
