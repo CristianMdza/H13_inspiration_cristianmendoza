@@ -22,7 +22,11 @@
 
 #### 1.4 Schéma de l'installation prévue
 
-#### 1.5 3 cours du programme qui sert à créer ce genre de projet
+#### 1.5 Trois cours du programme qui serviraient à créer ce genre de projet
+
+- Objets interactifs (technologies électroniques: capteurs, microcontrôleurs, DEL, microprogrammation, microordinateur, etc.)
+- Audio 2 (des outils de création sonore en temps réel)
+- Installation multimédia (utilisation de la projection vidéo, la lumière scénique et la spatialisation sonore)
 
 #### 1.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
