@@ -4,6 +4,8 @@
 
 ### 1). Entre Fungus
 
+[![Captura-de-Pantalla-2023-03-06-a-la-s-19-46-50.png](https://i.postimg.cc/T3HPtX9h/Captura-de-Pantalla-2023-03-06-a-la-s-19-46-50.png)](https://postimg.cc/NKmY0SZw)
+
 #### 1.1 Realisé par: 
 
 - Elwin Durand
@@ -16,6 +18,8 @@
 
 #### 1.3 Installation en cours dans les studios
 
+[![IMG-6090.jpg](https://i.postimg.cc/25s9ZcPK/IMG-6090.jpg)](https://postimg.cc/5Hmmc39B)
+
 #### 1.4 Schéma de l'installation prévue
 
 #### 1.5 3 cours du programme qui sert à créer ce genre de projet
@@ -26,6 +30,8 @@
 
 
 ### 2). Boucler La Boucle
+
+[![Captura-de-Pantalla-2023-03-06-a-la-s-19-49-40.png](https://i.postimg.cc/fWjT6dKG/Captura-de-Pantalla-2023-03-06-a-la-s-19-49-40.png)](https://postimg.cc/3WNTGdz1)
 
 #### 2.1 Realisé par:
 
@@ -38,6 +44,8 @@
 
 #### 2.3 Installation en cours dans les studios
 
+[![IMG-6088.jpg](https://i.postimg.cc/vT8X896P/IMG-6088.jpg)](https://postimg.cc/ftFYBVCX)
+
 #### 2.4 Schéma de l'installation prévue
 
 #### 2.5 3 cours du programme qui sert à créer ce genre de projet
@@ -48,6 +56,8 @@
 
 
 ### 3). Luma Sol
+
+[![Captura-de-Pantalla-2023-03-06-a-la-s-19-51-00.png](https://i.postimg.cc/RhXmqcpq/Captura-de-Pantalla-2023-03-06-a-la-s-19-51-00.png)](https://postimg.cc/2LbMKBDf)
 
 #### 3.1 Realisé par:
 
@@ -71,6 +81,8 @@
 
 ### 4). Echomarine
 
+[![Captura-de-Pantalla-2023-03-06-a-la-s-19-52-45.png](https://i.postimg.cc/bNrc3SFH/Captura-de-Pantalla-2023-03-06-a-la-s-19-52-45.png)](https://postimg.cc/SjBvKR4J)
+
 #### 4.1 Realisé par:
 
 - Florence Lapierre
@@ -92,6 +104,8 @@
 
 
 ### 5). Zodie-Gal
+
+[![Captura-de-Pantalla-2023-03-06-a-la-s-19-53-08.png](https://i.postimg.cc/qqZF9QZc/Captura-de-Pantalla-2023-03-06-a-la-s-19-53-08.png)](https://postimg.cc/5QLpz5Jj)
 
 #### 5.1 Realisé par: 
 
