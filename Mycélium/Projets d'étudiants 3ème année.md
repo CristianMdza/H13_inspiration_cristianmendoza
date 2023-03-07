@@ -18,7 +18,7 @@
 
 #### 1.3 Installation en cours dans les studios
 
-[![IMG-6090.jpg](https://i.postimg.cc/25s9ZcPK/IMG-6090.jpg)](https://postimg.cc/5Hmmc39B)
+[![IMG-6090.jpg](https://i.postimg.cc/ncW4rj8d/IMG-6090.jpg)](https://postimg.cc/nCvjwLh7)
 
 #### 1.4 Schéma de l'installation prévue
 
@@ -44,7 +44,7 @@
 
 #### 2.3 Installation en cours dans les studios
 
-[![IMG-6088.jpg](https://i.postimg.cc/vT8X896P/IMG-6088.jpg)](https://postimg.cc/ftFYBVCX)
+[![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
 
 #### 2.4 Schéma de l'installation prévue
 
@@ -70,6 +70,8 @@
 
 #### 3.3 Installation en cours dans les studios
 
+[![IMG-6089.jpg](https://i.postimg.cc/qMxwh1G1/IMG-6089.jpg)](https://postimg.cc/PPNY0z9D)
+
 #### 3.4 Schéma de l'installation prévue
 
 #### 3.5 3 cours du programme qui sert à créer ce genre de projet
@@ -93,6 +95,8 @@
 #### 4.2 lien avec le thème Mycélium
 
 #### 4.3 Installation en cours dans les studios
+
+[![IMG-6087.jpg](https://i.postimg.cc/BZgP2kdP/IMG-6087.jpg)](https://postimg.cc/F1YK4WFh)
 
 #### 4.4 Schéma de l'installation prévue
 
