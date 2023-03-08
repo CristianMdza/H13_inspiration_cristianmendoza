@@ -34,7 +34,7 @@
 
 #### 1.7 Ressentiment vers l'expérimentation de l'installation
 
-- J'ai bien aimé l'esthétique de ce projet. Les sons ainsi que les couleurs des lumières et des plantes qui vous donnent l'impression d'être dans un monde tropical et joyeux. J'ai aussi aimé l'effort qu'ils ont fait pour les outils et la gestion des applications.
+- J'ai bien aimé l'esthétique de ce projet. Les sons ainsi que les couleurs des lumières et des plantes, vous donnent l'impression d'être dans un monde tropical et joyeux. J'ai aussi aimé l'effort qu'ils ont fait pour les outils et la gestion des applications.
 
 ### 2). Boucler La Boucle
 
