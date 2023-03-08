@@ -51,9 +51,13 @@
 
 #### 2.3 Installation en cours dans les studios
 
-[![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
+- En studio, cette équipe a placé des ampoules au sol reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans l'étude :
+
+  [![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
 
 #### 2.4 Schéma de l'installation prévue
+
+   [![Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png](https://i.postimg.cc/SKgqF7Vr/Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png)](https://postimg.cc/06Kh7STM)
 
 #### 2.5 3 cours du programme qui sert à créer ce genre de projet
 
@@ -107,6 +111,8 @@
 
 #### 4.4 Schéma de l'installation prévue
 
+  [![Captura-de-Pantalla-2023-03-08-a-la-s-15-23-18.png](https://i.postimg.cc/NM4KnPzj/Captura-de-Pantalla-2023-03-08-a-la-s-15-23-18.png)](https://postimg.cc/TLK2LQxz)
+
 #### 4.5 3 cours du programme qui sert à créer ce genre de projet
 
 #### 4.6 Recherche d'une technique ou une composante technologique inconnu(e)
@@ -126,7 +132,13 @@
 
 #### 5.3 Installation en cours dans les studios
 
+- Cette fille n'a pas eu besoin du studio pour tester son projet car il est virtuel, plus précisément via un téléphone portable.
+
+- Pas de photo comme preuve. 
+
 #### 5.4 Schéma de l'installation prévue
+
+  [![Captura-de-Pantalla-2023-03-08-a-la-s-15-27-24.png](https://i.postimg.cc/GmXrZncN/Captura-de-Pantalla-2023-03-08-a-la-s-15-27-24.png)](https://postimg.cc/SnYwM5Y7)
 
 #### 5.5 3 cours du programme qui sert à créer ce genre de projet
 
