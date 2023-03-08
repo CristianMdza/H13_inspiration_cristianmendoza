@@ -18,7 +18,9 @@
 
 #### 1.3 Installation en cours dans les studios
 
-[![IMG-6090.jpg](https://i.postimg.cc/ncW4rj8d/IMG-6090.jpg)](https://postimg.cc/nCvjwLh7)
+- En studio, cette équipe a décidé de mettre en place le prototype du poteau principal (poteau central) qui comporte des haut-parleurs, 4 capteurs, des plantes artificielles et des lumières. Aussi, ils ont ajouté dans les coins,  4 gros haut-parleurs accompagnés de lumières pour simuler comme s'il y avait les vrais poteaux, voici ce qu'ils ont fait comme preuve dans le studio :
+
+   [![IMG-6090.jpg](https://i.postimg.cc/ncW4rj8d/IMG-6090.jpg)](https://postimg.cc/nCvjwLh7)
 
 #### 1.4 Schéma de l'installation prévue
 
@@ -32,6 +34,7 @@
 
 #### 1.7 Ressentiment vers l'expérimentation de l'installation
 
+- J'ai bien aimé l'esthétique de ce projet. Les sons ainsi que les couleurs des lumières et des plantes qui vous donnent l'impression d'être dans un monde tropical et joyeux. J'ai aussi aimé l'effort qu'ils ont fait pour les outils et la gestion des applications.
 
 ### 2). Boucler La Boucle
 
