@@ -118,30 +118,3 @@
 #### 4.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
 #### 4.7 Ressentiment vers l'expérimentation de l'installation
-
-
-### 5). Zodie-Gal
-
-[![Captura-de-Pantalla-2023-03-06-a-la-s-19-53-08.png](https://i.postimg.cc/qqZF9QZc/Captura-de-Pantalla-2023-03-06-a-la-s-19-53-08.png)](https://postimg.cc/5QLpz5Jj)
-
-#### 5.1 Realisé par: 
-
-- Abdanor Yara
-
-#### 5.2 lien avec le thème Mycélium
-
-#### 5.3 Installation en cours dans les studios
-
-- Cette fille n'a pas eu besoin du studio pour tester son projet car il est virtuel, plus précisément via un téléphone portable.
-
-- Pas de photo comme preuve. 
-
-#### 5.4 Schéma de l'installation prévue
-
-  [![Captura-de-Pantalla-2023-03-08-a-la-s-15-27-24.png](https://i.postimg.cc/GmXrZncN/Captura-de-Pantalla-2023-03-08-a-la-s-15-27-24.png)](https://postimg.cc/SnYwM5Y7)
-
-#### 5.5 3 cours du programme qui sert à créer ce genre de projet
-
-#### 5.6 Recherche d'une technique ou une composante technologique inconnu(e)
-
-#### 5.7 Ressentiment vers l'expérimentation de l'installation
