@@ -18,7 +18,9 @@
 
 #### 1.3 Installation en cours dans les studios
 
-- En studio, cette équipe a décidé de mettre en place le prototype du poteau principal (poteau central) qui comporte des haut-parleurs, 4 capteurs, des plantes artificielles et des lumières. Aussi, ils ont ajouté dans les coins,  4 gros haut-parleurs accompagnés de lumières pour simuler comme s'il y avait les vrais poteaux, tous ces poteaux vont reliés au centre de commandement où il y aura des ordinateurs contrôlés par les membres d'équipe. Voici ce qu'ils ont fait comme preuve dans l'étude :![image](https://user-images.githubusercontent.com/123656447/224078831-3104b83f-f191-43f3-85e3-8391d3e82851.png)
+- En studio, cette équipe a décidé de mettre en place le prototype du poteau principal (poteau central) qui comporte des haut-parleurs, 4 capteurs, des plantes artificielles et des lumières. Aussi, ils ont ajouté dans les coins,  4 gros haut-parleurs accompagnés de lumières pour simuler comme s'il y avait les vrais poteaux, tous ces poteaux vont reliés au centre de commandement où il y aura des ordinateurs contrôlés par les membres d'équipe. Voici ce qu'ils ont fait comme preuve dans l'étude :
+
+  [![IMG-6090.jpg](https://i.postimg.cc/ZKxsPzms/IMG-6090.jpg)](https://postimg.cc/0brCx3b7)
 
 #### 1.4 Schéma de l'installation prévue
 
