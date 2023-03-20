@@ -85,6 +85,8 @@
 
 #### 3.3 Installation en cours dans les studios
 
+- En studio, L'équipe Luma Sol a installé un vélo stationnaire de gym, de dispositifs techniques, des outils, d'haut-parleurs, un réseau d'ampoules et de câbles pour former la connexion entre les lumières et le vélo qui donnera l'énergie. Voici ce qu'ils ont fait comme preuve dans l'étude :
+
 [![IMG-6089.jpg](https://i.postimg.cc/qMxwh1G1/IMG-6089.jpg)](https://postimg.cc/PPNY0z9D)
 
 #### 3.4 Schéma de l'installation prévue
