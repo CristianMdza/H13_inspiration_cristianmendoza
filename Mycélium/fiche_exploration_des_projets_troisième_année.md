@@ -20,7 +20,7 @@
 
 #### 1.3 Installation en cours dans les studios
 
-- En studio, cette équipe a décidé de mettre en place le prototype du poteau principal (poteau central) qui comporte des haut-parleurs, 4 capteurs, des plantes artificielles et des lumières. Aussi, ils ont ajouté dans les coins,  4 gros haut-parleurs accompagnés de lumières pour simuler comme s'il y avait les vrais poteaux, tous ces poteaux vont reliés au centre de commandement où il y aura des ordinateurs contrôlés par les membres d'équipe. Voici ce qu'ils ont fait comme preuve dans l'étude :
+- En studio, cette équipe a décidé de mettre en place le prototype du poteau principal (poteau central) qui comporte des haut-parleurs, 4 capteurs, des plantes artificielles et des lumières. Aussi, ils ont ajouté dans les coins,  4 gros haut-parleurs accompagnés de lumières pour simuler comme s'il y avait les vrais poteaux, tous ces poteaux vont reliés au centre de commandement où il y aura des ordinateurs contrôlés par les membres d'équipe. Voici ce qu'ils ont fait comme preuve dans le studio :
 
   [![IMG-6090.jpg](https://i.postimg.cc/ZKxsPzms/IMG-6090.jpg)](https://postimg.cc/0brCx3b7)
 
@@ -55,7 +55,7 @@
 
 #### 2.3 Installation en cours dans les studios
 
-- En studio, cette équipe a placé des ampoules au sol reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans l'étude :
+- En studio, cette équipe a placé des ampoules au sol reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans le studio :
 
   [![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
 
@@ -85,7 +85,7 @@
 
 #### 3.3 Installation en cours dans les studios
 
-- En studio, L'équipe Luma Sol a installé un vélo stationnaire de gym, de dispositifs techniques, des outils, d'haut-parleurs, un réseau d'ampoules et de câbles pour former la connexion entre les lumières et le vélo qui donnera l'énergie. Voici ce qu'ils ont fait comme preuve dans l'étude :
+- En studio, L'équipe Luma Sol a installé un vélo stationnaire de gym, des dispositifs techniques, des outils, d'haut-parleurs, un réseau d'ampoules et de câbles pour former la connexion entre les lumières et le vélo qui donnera l'énergie. Voici ce qu'ils ont fait comme preuve dans le studio :
 
 [![IMG-6089.jpg](https://i.postimg.cc/qMxwh1G1/IMG-6089.jpg)](https://postimg.cc/PPNY0z9D)
 
@@ -114,6 +114,8 @@
 #### 4.2 lien avec le thème Mycélium
 
 #### 4.3 Installation en cours dans les studios
+
+- Cette équipe a testé leur projet dans le studio audiovisuel, ils ont utilisé un vidéoprojecteur, un seul mur et un ordinateur comme le centre qui contrôlera l'animation. Voici ce qu'ils ont fait comme preuve dans le studio :
 
 [![IMG-6087.jpg](https://i.postimg.cc/BZgP2kdP/IMG-6087.jpg)](https://postimg.cc/F1YK4WFh)
 
