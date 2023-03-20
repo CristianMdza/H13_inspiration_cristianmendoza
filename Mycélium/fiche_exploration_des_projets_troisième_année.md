@@ -16,6 +16,8 @@
 
 #### 1.2 lien avec le thème Mycélium
 
+- Ce projet évoque 
+
 #### 1.3 Installation en cours dans les studios
 
 - En studio, cette équipe a décidé de mettre en place le prototype du poteau principal (poteau central) qui comporte des haut-parleurs, 4 capteurs, des plantes artificielles et des lumières. Aussi, ils ont ajouté dans les coins,  4 gros haut-parleurs accompagnés de lumières pour simuler comme s'il y avait les vrais poteaux, tous ces poteaux vont reliés au centre de commandement où il y aura des ordinateurs contrôlés par les membres d'équipe. Voici ce qu'ils ont fait comme preuve dans l'étude :
