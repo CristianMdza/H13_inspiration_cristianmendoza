@@ -2,9 +2,9 @@
 
 - Voici les projets qui seront présentés dans l'ordre que j'ai aimé, du meilleur au moins bon.
 
-### 1). Entre Fungus
+### 1). Edria
 
-[![Captura-de-Pantalla-2023-03-06-a-la-s-19-46-50.png](https://i.postimg.cc/T3HPtX9h/Captura-de-Pantalla-2023-03-06-a-la-s-19-46-50.png)](https://postimg.cc/NKmY0SZw)
+[![Captura-de-Pantalla-2023-03-26-a-la-s-18-55-50.png](https://i.postimg.cc/NfHbB3nd/Captura-de-Pantalla-2023-03-26-a-la-s-18-55-50.png)](https://postimg.cc/TpTnc4fb)
 
 #### 1.1 Realisé par: 
 
@@ -26,6 +26,8 @@
 
 #### 1.4 Schéma de l'installation prévue
 
+- Voici le plan d'installation prévu pour rendre l'ensemble du réseau de ce projet:
+
   [![Captura-de-Pantalla-2023-03-09-a-la-s-10-47-46.png](https://i.postimg.cc/R0TJZGxY/Captura-de-Pantalla-2023-03-09-a-la-s-10-47-46.png)](https://postimg.cc/Z9C5f8RP)
 
 #### 1.5 Trois cours du programme qui serviraient à créer ce genre de projet
@@ -38,11 +40,13 @@
 
 #### 1.7 Ressentiment vers l'expérimentation de l'installation
 
-- J'ai bien aimé l'esthétique de ce projet. Les sons ainsi que les couleurs des lumières et des plantes, vous donnent l'impression d'être dans un monde tropical et joyeux. J'ai aussi aimé l'effort qu'ils ont fait pour les outils et la gestion des applications.
+- J'ai beaucoup aimé l'esthétique de ce projet. Les sons et les couleurs fluorescentes des lumières et le ton des plantes vous donnent l'impression d'être dans un monde tropical et joyeux. Malgré le fait que c'était l'hiver, j'ai aimé l'endroit que les étudiants ont choisi avec les arbres sans feuilles qui l'entourent. Le projet a fait ressortir la nature comme si nous étions en été grâce aux feuilles vertes. Enfin, j'ai aimé l'effort qu'ils ont mis dans la gestion des outils et des applications.
 
-### 2). Boucler La Boucle
+  [![Captura-de-Pantalla-2023-03-26-a-la-s-18-59-31.png](https://i.postimg.cc/qBnjTfSj/Captura-de-Pantalla-2023-03-26-a-la-s-18-59-31.png)](https://postimg.cc/rzVS1H8r)
 
-[![Captura-de-Pantalla-2023-03-06-a-la-s-19-49-40.png](https://i.postimg.cc/fWjT6dKG/Captura-de-Pantalla-2023-03-06-a-la-s-19-49-40.png)](https://postimg.cc/3WNTGdz1)
+### 2). Nexum
+
+
 
 #### 2.1 Realisé par:
 
