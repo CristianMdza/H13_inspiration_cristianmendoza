@@ -63,6 +63,9 @@
 
 #### 2.2 lien avec le thème Mycélium
 
+- Le parcours de ce projet est par un chemin interactif. La présence des sphères et des ampoules amène les participants à découvrir un
+sentier où poussent des petits et des grands champignons. Nexum est là pour faire revivre un monde imaginaire à travers les haut-parleurs, transmettant des sons qui montrent une nature sage. Cela vous fait également penser comme s'il y avait des familles de champignons qui peuvent changer de couleur lorsqu'il y a une présence humaine grâce à des capteurs.
+
 #### 2.3 Installation en cours dans les studios
 
 - En studio, cette équipe a placé des ampoules au sol reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans le studio :
