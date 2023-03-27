@@ -26,7 +26,7 @@
 
 #### 1.4 Schéma de l'installation prévue
 
-- Voici le plan d'installation prévu pour rendre l'ensemble du réseau de ce projet:
+- Voici le plan d'installation prévu pour rendre l'ensemble du réseau d'Edria:
 
   [![Captura-de-Pantalla-2023-03-09-a-la-s-10-47-46.png](https://i.postimg.cc/R0TJZGxY/Captura-de-Pantalla-2023-03-09-a-la-s-10-47-46.png)](https://postimg.cc/Z9C5f8RP)
 
@@ -52,7 +52,7 @@
 
 ### 2). Nexum
 
-
+[![Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png](https://i.postimg.cc/WpfvKTsy/Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png)](https://postimg.cc/dDdpZMkR)
 
 #### 2.1 Realisé par:
 
@@ -70,6 +70,8 @@
   [![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
 
 #### 2.4 Schéma de l'installation prévue
+
+- Voici le plan d'installation prévu pour rendre l'ensemble du réseau de Nexum:
 
    [![Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png](https://i.postimg.cc/SKgqF7Vr/Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png)](https://postimg.cc/06Kh7STM)
 
@@ -101,6 +103,8 @@
 
 #### 3.4 Schéma de l'installation prévue
 
+- Voici le plan d'installation prévu pour rendre l'ensemble du réseau de Luma sol:
+
   [![Captura-de-Pantalla-2023-03-09-a-la-s-10-57-46.png](https://i.postimg.cc/mDjb96mv/Captura-de-Pantalla-2023-03-09-a-la-s-10-57-46.png)](https://postimg.cc/BL899N9p)
 
 #### 3.5 3 cours du programme qui sert à créer ce genre de projet
@@ -130,6 +134,8 @@
 [![IMG-6087.jpg](https://i.postimg.cc/BZgP2kdP/IMG-6087.jpg)](https://postimg.cc/F1YK4WFh)
 
 #### 4.4 Schéma de l'installation prévue
+
+- Voici le plan d'installation prévu pour rendre l'ensemble du réseau d'Echomarine:
 
   [![Captura-de-Pantalla-2023-03-08-a-la-s-15-23-18.png](https://i.postimg.cc/NM4KnPzj/Captura-de-Pantalla-2023-03-08-a-la-s-15-23-18.png)](https://postimg.cc/TLK2LQxz)
 
