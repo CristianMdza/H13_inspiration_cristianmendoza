@@ -140,6 +140,6 @@
 #### 4.7 Ressentiment vers l'expérimentation de l'installation
 
 
-Sources: 
+### Sources: 
 
 1. (« VCV Rack », Wikipedia, 2 septembre 2022) URL: https://bit.ly/40EoVf8
