@@ -142,4 +142,4 @@
 
 Sources: 
 
-1. Wikipedia, "VCV Rack", 2 septembre 2022. https://bit.ly/40EoVf8
+1. (« VCV Rack », Wikipedia, 2 septembre 2022) URL: https://bit.ly/40EoVf8
