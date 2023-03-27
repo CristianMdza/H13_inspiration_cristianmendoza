@@ -16,7 +16,7 @@
 
 #### 1.2 lien avec le thème Mycélium
 
-- Ce projet évoque 
+- Edria fait revivre un monde interactif en faisant germer une nature technologique et méconnue au milieu du froid canadien, ce projet possède un écosystème très agréable et imaginaire. Les plantes avec des ampoules sur les poteaux sont utilisées pour faire semblant d'être dans une forêt pleine de champignons. De plus, l'accompagnement des lumières donne un effet comme si la lune se reflétait vers la forêt, faisant tout briller. D'autre part, les capteurs qui détectent les personnes garantissent qu'elles entrent dans chaque environnement différent en fonction du son. La présence de lumières en forme de globe amène le public à découvrir un lieu où les champignons reliés par le mycélium s'illuminent et provoquent un effet lumineux.
 
 #### 1.3 Installation en cours dans les studios
 
@@ -37,6 +37,12 @@
 - Installation multimédia (utilisation de la projection vidéo, la lumière scénique et la spatialisation sonore)
 
 #### 1.6 Recherche d'une technique ou une composante technologique inconnu(e)
+
+- VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre (sous licence GPLv3) multi-plateforme pour Linux, macOS et Windows. Son interface est celle d'un rack (armoire) dans lequel on place des modules aux entrées et sorties reliables par des câbles tout aussi virtuels, jusqu'à simuler un Eurorack entier.
+
+  [![VCV-rack.png](https://i.postimg.cc/cJ0tPsXY/VCV-rack.png)](https://postimg.cc/0zXNwqg2)
+
+- Ses fontionnalités permetent à des développeurs de proposer des ajouts gratuits ou payants. Il peut être utilisé avec un Eurorack matériel au moyen d'interfaces USB ou midi7. Les VCO de VCV Rack peuvent ainsi se synchroniser avec un signal de référence externe, logiciel ou matériel. VCV Rack est également possible de l'utiliser comme un greffon VST.
 
 #### 1.7 Ressentiment vers l'expérimentation de l'installation
 
@@ -132,3 +138,8 @@
 #### 4.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
 #### 4.7 Ressentiment vers l'expérimentation de l'installation
+
+
+Sources: 
+
+1. Wikipedia, "VCV Rack", 2 septembre 2022. https://bit.ly/40EoVf8
