@@ -67,7 +67,7 @@
 
 #### 2.3 Installation en cours dans les studios
 
-- En studio, cette équipe a placé des ampoules au sol reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans le studio :
+- En studio, cette équipe a placé des ampoules et des sphères reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans le studio :
 
   [![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
 
