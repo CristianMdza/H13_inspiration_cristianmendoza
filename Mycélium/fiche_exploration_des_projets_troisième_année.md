@@ -2,7 +2,7 @@
 
 - Voici les projets qui seront présentés dans l'ordre que j'ai aimé, du meilleur au moins bon.
 
-### 1). Edria
+> ### 1). Edria
 
 [![Captura-de-Pantalla-2023-03-26-a-la-s-18-55-50.png](https://i.postimg.cc/NfHbB3nd/Captura-de-Pantalla-2023-03-26-a-la-s-18-55-50.png)](https://postimg.cc/TpTnc4fb)
 
@@ -38,11 +38,11 @@
 
 #### 1.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
-- VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre (sous licence GPLv3) multi-plateforme pour Linux, macOS et Windows. Son interface est celle d'un rack (armoire) dans lequel on place des modules aux entrées et sorties reliables par des câbles tout aussi virtuels, jusqu'à simuler un Eurorack entier.
+- VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre (sous licence GPLv3) multi-plateforme pour Linux, macOS et Windows. Son interface est celle d'un rack (armoire) dans lequel on place des modules aux entrées et sorties reliables par des câbles tout aussi virtuels, jusqu'à simuler un Eurorack entier. 1
 
   [![VCV-rack.png](https://i.postimg.cc/cJ0tPsXY/VCV-rack.png)](https://postimg.cc/0zXNwqg2)
 
-- Ses fontionnalités permetent à des développeurs de proposer des ajouts gratuits ou payants. Il peut être utilisé avec un Eurorack matériel au moyen d'interfaces USB ou midi7. Les VCO de VCV Rack peuvent ainsi se synchroniser avec un signal de référence externe, logiciel ou matériel. VCV Rack est également possible de l'utiliser comme un greffon VST.
+- Ses fontionnalités permetent à des développeurs de proposer des ajouts gratuits ou payants. Il peut être utilisé avec un Eurorack matériel au moyen d'interfaces USB ou midi7. Les VCO de VCV Rack peuvent ainsi se synchroniser avec un signal de référence externe, logiciel ou matériel. VCV Rack est également possible de l'utiliser comme un greffon VST. 1
 
 #### 1.7 Ressentiment vers l'expérimentation de l'installation
 
@@ -50,7 +50,7 @@
 
   [![Captura-de-Pantalla-2023-03-26-a-la-s-18-59-31.png](https://i.postimg.cc/qBnjTfSj/Captura-de-Pantalla-2023-03-26-a-la-s-18-59-31.png)](https://postimg.cc/rzVS1H8r)
 
-### 2). Nexum
+> ### 2). Nexum
 
 [![Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png](https://i.postimg.cc/WpfvKTsy/Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png)](https://postimg.cc/dDdpZMkR)
 
@@ -84,7 +84,7 @@
 #### 2.7 Ressentiment vers l'expérimentation de l'installation
 
 
-### 3). Luma Sol
+> ### 3). Luma Sol
 
 [![Captura-de-Pantalla-2023-03-27-a-la-s-19-04-54.png](https://i.postimg.cc/TYDxYLp5/Captura-de-Pantalla-2023-03-27-a-la-s-19-04-54.png)](https://postimg.cc/kBqzT5N7)
 
@@ -116,7 +116,7 @@
 #### 3.7 Ressentiment vers l'expérimentation de l'installation
 
 
-### 4). Echomarine
+> ### 4). Echomarine
 
 [![Captura-de-Pantalla-2023-03-06-a-la-s-19-52-45.png](https://i.postimg.cc/bNrc3SFH/Captura-de-Pantalla-2023-03-06-a-la-s-19-52-45.png)](https://postimg.cc/SjBvKR4J)
 
