@@ -121,6 +121,12 @@
 
 #### 3.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
+#### Visual Studio Code:
+
+- Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS. Les utilisateurs peuvent modifier le thème, les raccourcis clavier, les préférences et installer des extensions qui ajoutent des fonctionnalités supplémentaires. 3
+
+- De plus, Il peut être utilisé avec une variété de langages de programmation, notamment Java, JavaScript, Go, etc. Il est basé sur le cadre Electron, qui est utilisé pour développer des applications Web Node.js qui s'exécutent sur le moteur de présentation Blink. 3
+
 #### 3.7 Ressentiment vers l'expérimentation de l'installation
 
 
@@ -160,3 +166,4 @@
 
 1. (« VCV Rack », Wikipedia, 2 septembre 2022) URL: https://bit.ly/40EoVf8
 2. (« Reaper (logiciel) », Wikipedia, 5 août 2022) URL: https://bit.ly/3zaSgSH
+3. (« Visual Studio Code », Wikipedia, 25 février 2023) URL: https://bit.ly/2Z7ytQk
