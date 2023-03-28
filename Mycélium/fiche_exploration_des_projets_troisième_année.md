@@ -87,6 +87,8 @@
 
 - Reaper (Rapid Environment for Audio Production, Engineering, and Recording) est un logiciel de MAO.  Reaper est disponible pour Microsoft Windows, en beta sous Linux et Mac OS X. 2
 
+[![reaper.png](https://i.postimg.cc/PrQZ6Nrw/reaper.png)](https://postimg.cc/hfhfvDmD)
+
 - Aussi, il propose aussi des fonctionnalités qui lui sont propres : la série de plug-ins d'effets Rea, une API d'effets nommée JS (pour Jesusonic) qui permet, au sein de Reaper, de développer ses propres effets audio. 2
 
 #### 2.7 Ressentiment vers l'expérimentation de l'installation
@@ -124,6 +126,8 @@
 #### Visual Studio Code:
 
 - Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS. Les utilisateurs peuvent modifier le thème, les raccourcis clavier, les préférences et installer des extensions qui ajoutent des fonctionnalités supplémentaires. 3
+
+[![visual-studio-code.jpg](https://i.postimg.cc/65kVPFCk/visual-studio-code.jpg)](https://postimg.cc/xcPbJxx5)
 
 - De plus, Il peut être utilisé avec une variété de langages de programmation, notamment Java, JavaScript, Go, etc. Il est basé sur le cadre Electron, qui est utilisé pour développer des applications Web Node.js qui s'exécutent sur le moteur de présentation Blink. 3
 
