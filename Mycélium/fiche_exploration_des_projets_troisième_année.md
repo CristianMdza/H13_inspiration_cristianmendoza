@@ -38,6 +38,8 @@
 
 #### 1.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
+#### VCV Rack:
+
 - VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre (sous licence GPLv3) multi-plateforme pour Linux, macOS et Windows. Son interface est celle d'un rack (armoire) dans lequel on place des modules aux entrées et sorties reliables par des câbles tout aussi virtuels, jusqu'à simuler un Eurorack entier. 1
 
   [![VCV-rack.png](https://i.postimg.cc/cJ0tPsXY/VCV-rack.png)](https://postimg.cc/0zXNwqg2)
@@ -80,6 +82,12 @@
 #### 2.5 3 cours du programme qui sert à créer ce genre de projet
 
 #### 2.6 Recherche d'une technique ou une composante technologique inconnu(e)
+
+#### Reaper:
+
+- Reaper (Rapid Environment for Audio Production, Engineering, and Recording) est un logiciel de MAO.  Reaper est disponible pour Microsoft Windows, en beta sous Linux et Mac OS X. 2
+
+- Aussi, il propose aussi des fonctionnalités qui lui sont propres : la série de plug-ins d'effets Rea, une API d'effets nommée JS (pour Jesusonic) qui permet, au sein de Reaper, de développer ses propres effets audio. 2
 
 #### 2.7 Ressentiment vers l'expérimentation de l'installation
 
@@ -151,3 +159,4 @@
 ### Sources: 
 
 1. (« VCV Rack », Wikipedia, 2 septembre 2022) URL: https://bit.ly/40EoVf8
+2. (« Reaper (logiciel) », Wikipedia, 5 août 2022) URL: https://bit.ly/3zaSgSH
