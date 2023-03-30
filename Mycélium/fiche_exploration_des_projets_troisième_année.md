@@ -81,6 +81,10 @@
 
 #### 2.5 3 cours du programme qui sert à créer ce genre de projet
 
+- Audio 2 (des outils de création sonore à l'interactivité en temps réel).
+- Animation 2D (des animations fluides et synchronisées à partir des images).
+- Interactivité ludique (l'intégration des images et des échantillons sonores à travers de logiciels d’intégration multimédia.)
+
 #### 2.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
 #### Reaper:
