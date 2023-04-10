@@ -97,6 +97,7 @@
 
 #### 2.7 Ressentiment vers l'expérimentation de l'installation
 
+- Je n'ai pas trop aimé l'expérimentation en studio car ça manquait beaucoup d'esthétisme (poteaux et ampoules en forme d'sphère) par manque de budget. Déjà sur scène, je n'étais pas tellement surpris. Cette œuvre a de la technologie (lumières et sons), mais je n'en voyais pas le côté nature (comme des plantes ou des autres choses), j'ai l'impression que les créateurs en manquaient pour que nous, les spectateurs, nous sentions davantage dans un monde différent et ne soyons pas seulement entourés de lumières et de sons.
 
 > ### 3). Luma Sol
 
