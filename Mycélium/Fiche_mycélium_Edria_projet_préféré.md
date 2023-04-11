@@ -34,6 +34,9 @@
 - Cette oeuvre là, a été réalisée dans la session d'hiver 2023. 
 
 ### Description de l'oeuvre
+
+- Edria est une œuvre interactive, basée sur un monde extraordinaire. Celle-ci a une grande structure au milieu et d'autres autour, toutes représentant la technologie et la nature. L'interaction entre le système de capteurs d'Edria et les personnes qui la visitent donne vie à un monde surréaliste à travers les lumières et les sons qu'elle produit.
+
 ### Type d'installation
 
 - Interactive.
