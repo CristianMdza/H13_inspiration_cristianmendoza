@@ -39,7 +39,7 @@
 
 ### Type d'installation
 
-- Interactive.
+- C'est une œuvre interactive.
 
 ### Mise en espace
 
@@ -47,7 +47,8 @@
 
 ### Composantes et techniques
 
-- Pour cette grand oeuvre, les createurs ont eu besoin d'utiliser certains logiciels, voici ceux qui on été requis: FL Studio, VCV Rack, Madmapper et Arduino IDE. 
+- Pour cette grand oeuvre, les createurs ont eu besoin d'utiliser certains logiciels, voici ceux qui on été requis: FL Studio (studio pour produire et enregistrer de la musique), VCV Rack (synthétiseur modulaire analogique virtuel), Madmapper (projecteur d'images, vidéos et textures) et Arduino IDE (plateforme pour créer des objets électroniques interactifs). 
+
 ### Éléments nécessaires à la mise en exposition
 ### Expérience vécue
 ### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
