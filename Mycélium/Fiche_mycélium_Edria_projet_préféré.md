@@ -47,7 +47,23 @@
 
 ### Composantes et techniques
 
-- Pour cette grand oeuvre, les createurs ont eu besoin d'utiliser certains logiciels, voici ceux qui on été requis: FL Studio (studio pour produire et enregistrer de la musique), VCV Rack (synthétiseur modulaire analogique virtuel), Madmapper (projecteur d'images, vidéos et textures) et Arduino IDE (plateforme pour créer des objets électroniques interactifs). 
+- Pour cette grand oeuvre, les createurs ont eu besoin d'utiliser certains logiciels, voici ceux qui on été requis: 
+
+- FL Studio (studio pour produire et enregistrer de la musique);
+
+  [![Captura-de-Pantalla-2023-04-11-a-la-s-22-06-15.png](https://i.postimg.cc/YSHkPmTY/Captura-de-Pantalla-2023-04-11-a-la-s-22-06-15.png)](https://postimg.cc/QF0R9V8d)
+
+- VCV Rack (synthétiseur modulaire analogique virtuel); 
+
+  [![VCV-rack.png](https://i.postimg.cc/ydpM7Jpf/VCV-rack.png)](https://postimg.cc/bDbCTvhb)
+
+- Madmapper (projecteur d'images, vidéos et textures); 
+
+  [![Captura-de-Pantalla-2023-04-11-a-la-s-22-22-47.png](https://i.postimg.cc/gkGG4RFh/Captura-de-Pantalla-2023-04-11-a-la-s-22-22-47.png)](https://postimg.cc/bdFXwZvY)
+
+- Arduino IDE (plateforme pour créer des objets électroniques interactifs). 
+
+  [![Captura-de-Pantalla-2023-04-11-a-la-s-22-24-19.png](https://i.postimg.cc/Jnhbbt7C/Captura-de-Pantalla-2023-04-11-a-la-s-22-24-19.png)](https://postimg.cc/DWtJhvbx)
 
 ### Éléments nécessaires à la mise en exposition
 ### Expérience vécue
