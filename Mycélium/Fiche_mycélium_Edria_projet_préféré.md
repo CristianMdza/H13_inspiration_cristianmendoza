@@ -42,6 +42,9 @@
 - Interactive.
 
 ### Mise en espace
+
+- Il se compose de visiteurs arrivant dans un monde magique, où ils trouvent des piliers technologiques recouverts de plantes, de haut-parleurs et de lumières. En effet, le plus grand d'entre eux possède 4 capteurs. Ensuite, dès qu'une personne s'approche de l'un d'eux, immédiatement la structure principale donnera l'information aux autres piliers pour donner un environnement lumineux plein de sons qui les emmènent vers une nature inconnue. De plus, chaque côté de la structure interactive dispose d'un capteur où ils génèrent un environnement différent avec la présence d'une personne.
+
 ### Composantes et techniques
 
 - Pour cette grand oeuvre, les createurs ont eu besoin d'utiliser certains logiciels, voici ceux qui on été requis: FL Studio, VCV Rack, Madmapper et Arduino IDE. 
