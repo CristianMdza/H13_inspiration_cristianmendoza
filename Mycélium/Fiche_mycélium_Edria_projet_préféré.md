@@ -13,6 +13,9 @@
   [![Captura-de-Pantalla-2023-04-11-a-la-s-17-32-43.png](https://i.postimg.cc/brNSLmtd/Captura-de-Pantalla-2023-04-11-a-la-s-17-32-43.png)](https://postimg.cc/G8VpmJz1)
 
 ### Type d'exposition
+
+- C'est une oeuvre temporaire et à l'exterieur. 
+
 ### Date de la visite
 
 - 23 - mars - 2023
