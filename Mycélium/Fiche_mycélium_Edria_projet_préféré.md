@@ -66,6 +66,26 @@
   [![Captura-de-Pantalla-2023-04-11-a-la-s-22-24-19.png](https://i.postimg.cc/Jnhbbt7C/Captura-de-Pantalla-2023-04-11-a-la-s-22-24-19.png)](https://postimg.cc/DWtJhvbx)
 
 ### Éléments nécessaires à la mise en exposition
+
+Matériel de scénographie requis
+
+- 8 poteaux moyens et 1 grand poteau. 
+- 9 haut-parleurs.
+- 9 strings festoon. 
+- 9 plantes artificielles.
+- 4 capteurs + couvertures. 
+- Des Lumières adressables.
+- Des Boules Lumineuses.
+- Des lumières en forme de Tubes Opal. 
+- Cabanon central.
+- Amplificateurs.
+- Carte de son.
+- Des Ordinateurs.
+- Des câbles. 
+- Des caches fils. 
+- Des outils. 
+
+
 ### Expérience vécue
 ### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
 ### Aspect pas souhaité à retenir ou Aspect que je fairais autrement
