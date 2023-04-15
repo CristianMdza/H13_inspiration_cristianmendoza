@@ -92,4 +92,7 @@ Matériel de scénographie requis
 ### Expérience vécue
 ### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
 ### Aspect pas souhaité à retenir ou Aspect que je fairais autrement
+
+- Il n'y a rien que je n'ai pas aimé. C'est que je ferais autrement pour ce projet serait de mettre un meilleur système d'éclairage, j'ajouterais des machines à fumée (type disco) et de la musique de toutes sortes pour qu'il y ait un environnement extérieur différent.
+
 ### Sources
