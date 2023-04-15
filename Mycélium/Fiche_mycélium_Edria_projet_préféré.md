@@ -91,6 +91,9 @@ Matériel de scénographie requis
 
 ### Expérience vécue
 ### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
+
+- J'ai beaucoup aimé le fait d'avoir intégré des capteurs, cela rend l'interactivité plus technologique sans avoir à toucher à quelque chose. De plus, les couleurs et les sons qui sortaient de chaque environnement étaient très attrayants et agréables. Bref, j'ai été surpris par les logiciels qu'ils utilisaient dans le centre de commande.
+
 ### Aspect pas souhaité à retenir ou Aspect que je fairais autrement
 
 - Il n'y a rien que je n'ai pas aimé. C'est que je ferais autrement pour ce projet serait de mettre un meilleur système d'éclairage, j'ajouterais des machines à fumée (type disco) et de la musique de toutes sortes pour qu'il y ait un environnement extérieur différent.
