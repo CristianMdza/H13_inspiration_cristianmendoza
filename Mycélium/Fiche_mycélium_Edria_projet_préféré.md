@@ -90,9 +90,12 @@ Matériel de scénographie requis
 
 
 ### Expérience vécue
+
+- Sur scène c'était une autre chose complètemente différente à le studio, l'interaction que j'ai eu avec le grand poteau au milieu a été agreable. Je me suis fait dans chaque côté pour essayer et resentir l'ambiance des couleurs et sons qui sortaient automatiquement quand je m'approchais aux capteurs. L'environment de ce projet faisait que je me sentais dans un autre endroit à celui du commun, un monde magique.  
+- 
 ### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
 
-- J'ai beaucoup aimé le fait d'avoir intégré des capteurs, cela rend l'interactivité plus technologique sans avoir à toucher à quelque chose. De plus, les couleurs et les sons qui sortaient de chaque environnement étaient très attrayants et agréables. Bref, j'ai été surpris par les logiciels qu'ils utilisaient dans le centre de commande.
+- Ce que j'ai le plus aimé, ce sont les structures avec la décoration et les lumières la nuit. Parce qu'en toute saison de l'année, ce projet serait formidable pour donner de l'ambiance dans les aires communes, il servirait non seulement pour un cégep, mais aussi pour des restaurants, un parc, un festival, etc.
 
 ### Aspect pas souhaité à retenir ou Aspect que je fairais autrement
 
