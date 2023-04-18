@@ -170,6 +170,10 @@
 
 #### 4.5 3 cours du programme qui sert à créer ce genre de projet
 
+- Animation 2D (des animations fluides et synchronisées à partir des images).
+- Vidéo 2 (utilisation des différentes fonctions des logiciels de montage vidéo afin de générer des effets visuels et sonores.)
+- Installation multimédia (utilisation de la projection vidéo, la lumière scénique et la spatialisation sonore)
+
 #### 4.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
 #### 4.7 Ressentiment vers l'expérimentation de l'installation
