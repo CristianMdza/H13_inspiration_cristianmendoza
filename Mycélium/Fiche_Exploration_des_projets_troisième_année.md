@@ -32,7 +32,7 @@
 
 #### 1.5 Trois cours du programme qui serviraient à créer ce genre de projet
 
-- Objets interactifs (technologies électroniques: capteurs, microcontrôleurs, DEL, microprogrammation, microordinateur, etc.)
+- Objets interactifs (Connaître les technologies électroniques: capteurs, microcontrôleurs, DEL, microprogrammation, microordinateur, etc.)
 - Audio 2 (des outils de création sonore en temps réel)
 - Installation multimédia (utilisation de la projection vidéo, la lumière scénique et la spatialisation sonore)
 
@@ -125,6 +125,10 @@
   [![Captura-de-Pantalla-2023-03-09-a-la-s-10-57-46.png](https://i.postimg.cc/mDjb96mv/Captura-de-Pantalla-2023-03-09-a-la-s-10-57-46.png)](https://postimg.cc/BL899N9p)
 
 #### 3.5 3 cours du programme qui sert à créer ce genre de projet
+
+- Modélisation 3D (Créativité et différents effets de texture et de lumière pour réaliser des objets réalistes avec des logiciels de modélisation 3D)
+- Objets interactifs (Connaître les technologies électroniques: capteurs, microcontrôleurs, DEL, microprogrammation, microordinateur, etc.)
+- Installation multimédia (utilisation de la projection vidéo, la lumière scénique et la spatialisation sonore)
 
 #### 3.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
