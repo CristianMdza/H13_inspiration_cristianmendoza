@@ -20,7 +20,11 @@
 
 ### Nom de l'artiste ou createur
 
+- Il n'y a pas. 
+
 ### Année de réalisation
+
+- Il n'y a pas.
 
 ### Description de l'oeuvre
 
