@@ -99,7 +99,7 @@
 
 > ### 3). Luma Sol
 
-[![Captura-de-Pantalla-2023-03-27-a-la-s-19-04-54.png](https://i.postimg.cc/TYDxYLp5/Captura-de-Pantalla-2023-03-27-a-la-s-19-04-54.png)](https://postimg.cc/kBqzT5N7)
+[![Captura-de-Pantalla-2023-04-19-a-la-s-00-41-52.png](https://i.postimg.cc/mr1FwKc4/Captura-de-Pantalla-2023-04-19-a-la-s-00-41-52.png)](https://postimg.cc/B8s6ZYc7)
 
 #### 3.1 Realisé par:
 
