@@ -50,8 +50,6 @@
 
 - J'ai beaucoup aimé l'esthétique de ce projet. Les sons et les couleurs fluorescentes des lumières et le ton des plantes vous donnent l'impression d'être dans un monde tropical et joyeux. Malgré le fait que c'était l'hiver, j'ai aimé l'endroit que les étudiants ont choisi avec les arbres sans feuilles qui l'entourent. Le projet a fait ressortir la nature comme si nous étions en été grâce aux feuilles vertes. Enfin, j'ai aimé l'effort qu'ils ont mis dans la gestion des outils et des applications.
 
-  [![Captura-de-Pantalla-2023-03-26-a-la-s-18-59-31.png](https://i.postimg.cc/qBnjTfSj/Captura-de-Pantalla-2023-03-26-a-la-s-18-59-31.png)](https://postimg.cc/rzVS1H8r)
-
 > ### 2). Nexum
 
 [![Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png](https://i.postimg.cc/WpfvKTsy/Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png)](https://postimg.cc/dDdpZMkR)
