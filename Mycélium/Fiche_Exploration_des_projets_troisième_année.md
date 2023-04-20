@@ -185,6 +185,8 @@
 
 ### Sources: 
 
-1. (« VCV Rack », Wikipedia, 2 septembre 2022) URL: https://bit.ly/40EoVf8
-2. (« Reaper (logiciel) », Wikipedia, 5 août 2022) URL: https://bit.ly/3zaSgSH
-3. (« Visual Studio Code », Wikipedia, 25 février 2023) URL: https://bit.ly/2Z7ytQk
+1. (Anonyme, « VCV Rack », Wikipedia, 2 septembre 2022) URL: https://bit.ly/40EoVf8
+2. (Anonyme, « Reaper (logiciel) », Wikipedia, 5 août 2022) URL: https://bit.ly/3zaSgSH
+3. (Anonyme, « Visual Studio Code », Wikipedia, 25 février 2023) URL: https://bit.ly/2Z7ytQk
+4. (Anonyme, « Pure data », Wikipedia, 13 avril 2023) URL: https://bit.ly/41oKZev
+5. (Anonyme, « Pure Data, un logiciel de création multimédia interactive », Floss Manuals, 20 novembre 2021) URL: https://bit.ly/41lzVPj
