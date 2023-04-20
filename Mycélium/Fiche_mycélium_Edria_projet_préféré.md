@@ -62,7 +62,7 @@
 
 - Madmapper (projecteur d'images, vidéos et textures); 
 
-[![Captura-de-Pantalla-2023-04-11-a-la-s-22-22-47.png](https://i.postimg.cc/gkGG4RFh/Captura-de-Pantalla-2023-04-11-a-la-s-22-22-47.png)](https://postimg.cc/bdFXwZvY)
+  [![Captura-de-Pantalla-2023-04-11-a-la-s-22-22-47.png](https://i.postimg.cc/gkGG4RFh/Captura-de-Pantalla-2023-04-11-a-la-s-22-22-47.png)](https://postimg.cc/bdFXwZvY)
 
 - Arduino IDE (plateforme pour créer des objets électroniques interactifs). 
 
