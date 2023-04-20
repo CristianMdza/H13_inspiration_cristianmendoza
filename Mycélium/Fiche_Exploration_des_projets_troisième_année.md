@@ -154,6 +154,8 @@
 
 #### 4.2 lien avec le thème Mycélium
 
+- Echomarine nous immerge dans un monde interactif au fond de la mer, au lieu d'un monde de champignons. Ce projet s'inspire de la nature marine en voie de disparition ou en danger. Il dispose d'un dispositif interactif afin de connaître et de comprendre les sons des animaux marins qui proviennent d'une nature technologique inconnue. L'ambiance audiovisuelle d'Ecomarine nous fait imaginer ce que sont les profondeurs du monde maritime dans leur splendeur.
+
 #### 4.3 Installation en cours dans les studios
 
 - Cette équipe a testé leur projet dans le studio audiovisuel, ils ont utilisé un vidéoprojecteur, un seul mur et un ordinateur comme le centre qui contrôlera l'animation. Voici ce qu'ils ont fait comme preuve dans le studio :
