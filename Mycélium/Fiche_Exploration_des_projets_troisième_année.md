@@ -178,7 +178,7 @@
 
 - Pure Data est un logiciel de programmation graphique pour la création musicale et multimédia (musique, arts visuels, danse, théâtre, robotique, etc.) en temps réel. Il permet également de gérer des signaux entrants dans l'ordinateur et de gérer des signaux sortants. De plus, il sert à modéliser des instruments électroniques comme les synthétiseurs. Il permet la gestion d'échantillonneurs (samplers) et d'effets, la composition musicale, ou encore, la création de séquenceur MIDI, etc.  
 
-[![Captura-de-Pantalla-2023-04-19-a-la-s-20-59-24.png](https://i.postimg.cc/BQVN52tR/Captura-de-Pantalla-2023-04-19-a-la-s-20-59-24.png)](https://postimg.cc/xcLKnJvP)
+  [![Captura-de-Pantalla-2023-04-19-a-la-s-20-59-24.png](https://i.postimg.cc/BQVN52tR/Captura-de-Pantalla-2023-04-19-a-la-s-20-59-24.png)](https://postimg.cc/xcLKnJvP)
 
 #### 4.7 Ressentiment vers l'expérimentation de l'installation
 
