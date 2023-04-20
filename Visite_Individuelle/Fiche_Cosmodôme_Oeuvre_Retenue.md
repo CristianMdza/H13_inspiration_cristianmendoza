@@ -10,6 +10,8 @@
 
 ### Type d'exposition 
 
+- C'est une exposition permanente, virtuelle et intérieure. 
+
 ### Date de la visite
 
 - Mercredi 12 avril 2023.
@@ -29,6 +31,8 @@
 ### Description de l'oeuvre
 
 ### Type d'installation
+
+- L'installation de cette exposition est immersive et interactive. 
 
 ### Mise en espace
 
