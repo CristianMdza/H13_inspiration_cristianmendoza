@@ -10,9 +10,9 @@ Par contre, Yanik a dit que la mode peut être combinée (immersion, son, lumiè
 
 D’autre part, on doit essayer de choisir des matériaux de bonne qualité qu’on puisse recycler après pour des prochains projets. En outre, il faut être au courant des nouvelles applications et utiliser des nouvelles technologies. Avec celles-ci on développe les objets connectés pour créer les interactions de nos projets.
 
-Dans le même ordre d’idées, Yanik disait que au moment de l’installation et intégration, il faut tester l’œuvre en général, savoir ce qu'on a besoin, savoir les normes de santé et sécurité, avoir un manuel d’opération (c’est comme une bible, tout est écrit là dans) afin de faciliter les tâches du client et nous mêmes comme créateurs du projet ou/et œuvre. Et pour finir, on a tout appris par rapport au budget et l’échéancier, nous comme créateurs multimédia on doit prévoir le nombre d’heures à travailler sur le projet, optimiser le temps et ressources.
+Dans le même ordre d’idées, Yanik disait que au moment de l’installation et intégration, il faut tester l’œuvre en général, savoir ce qu'on a besoin, savoir les normes de santé et sécurité, avoir un manuel d’opération (c’est comme une bible, tout est écrit là dans) afin de faciliter les tâches du client et de nous mêmes comme créateurs du projet ou/et œuvre. Et pour finir, on a tout appris par rapport au budget et l’échéancier, nous comme créateurs multimédia on doit prévoir le nombre d’heures à travailler sur le projet, optimiser le temps et ressources.
 
 En conclusion, j’ai beaucoup aimé cette conférence, car j'ai pu en apprendre davantage sur le secteur multimédia et surtout sur les aspects techniques, créatifs, monétaires et même ce qu’il faut vraiment considérer pour créer mon propre projet à l’avenir. 
 
-Nombre total de mots: 361
+Nombre total de mots: 367
 
