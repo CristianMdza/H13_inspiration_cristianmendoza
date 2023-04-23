@@ -1,7 +1,7 @@
 # Conférence de Yanik Daunais 
 > ### Directeur général et producteur, Halo création. 
 
-Cette conférence a été animée par Yanik Daunais (Director general y créateur de Halo création). ce dernier est un studio de conception et producteur d'expériences multimédia. Yanik est venu à notre classe pour parler de la création multimédia en contexte muséal. Un fait curieux, c'est que ce grand homme, avant de travailler pour halo création, a travaillé dans le monde de la musique.  
+Cette conférence a été animée par Yanik Daunais (Director general y créateur de Halo création). Ce dernier est un studio de conception et producteur d'expériences multimédia. Yanik est venu à notre classe pour parler de la création multimédia en contexte muséal. Un fait curieux, c'est que ce grand homme, avant de travailler pour halo création, a travaillé dans le monde de la musique.  
 
 En premier lieu, Yanik a commencé à expliquer les différentes processus des œuvres multimédia, comme: vers qui on devait nous adresser, qu’il fallait su type du public (individuel / groupe) et en dehors de lui. Aussi, l’aspect éducatif a été mentionné, on se base surtout dans un public général (enfants, jeunes, adultes et aînés), par exemple, si on a en tête de faire un projet aux jeunes adolescents, nous devons connaître leurs intérêts dépendant de l’âge. 
 
