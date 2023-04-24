@@ -93,6 +93,8 @@
 
 #### 2.7 Ressentiment vers l'expérimentation de l'installation
 
+- J'ai mis Lumasol en deuxième "préféré", car au moment de l'avoir vu et d'avoir interagi, j'ai pu sentir qu'il y avait un lien avec la nature via le mycélium et en même temps avec la technologie. J'ai aimé les lumières sur l'arbre et les lumières en forme de tube, ainsi que les sphères lumineuses, elles ressemblaient à des champignons. De plus, la chaise était une très bonne idée avec l'environnement mais, en même temps, l'utilisation de cela semblait d'une ancinne époque. Le système d'éclairage de tout à travers cela était très intelligent. Enfin, le changement de couleurs qui représentaient une session de l'année était très agréable.
+
 > ### 3). Nexum
 
 [![Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png](https://i.postimg.cc/WpfvKTsy/Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png)](https://postimg.cc/dDdpZMkR)
