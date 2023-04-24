@@ -50,85 +50,38 @@
 
 - J'ai beaucoup aimé l'esthétique de ce projet. Les sons et les couleurs fluorescentes des lumières et le ton des plantes vous donnent l'impression d'être dans un monde tropical et joyeux. Malgré le fait que c'était l'hiver, j'ai aimé l'endroit que les étudiants ont choisi avec les arbres sans feuilles qui l'entourent. Le projet a fait ressortir la nature comme si nous étions en été grâce aux feuilles vertes. Enfin, j'ai aimé l'effort qu'ils ont mis dans la gestion des outils et des applications.
 
-> ### 2). Nexum
-
-[![Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png](https://i.postimg.cc/WpfvKTsy/Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png)](https://postimg.cc/dDdpZMkR)
-
-#### 2.1 Realisé par:
-
-- Sébastien Reilly
-- Sabrina Laforest
-- Alexandre Daniel
-- Maxime Des Lauriers
-
-#### 2.2 lien avec le thème Mycélium
-
-- Le parcours de Nexum vous plonge dans un chemin interactif rempli de lumières, haut-parleurs et capteurs. La présence des sphères et des ampoules amène les participants à découvrir un espace magique où poussent des petits et des grands champignons. Nexum est là pour faire revivre un monde imaginaire transmettant une ambiance musicale qui montrent une nature sage à travers les animations. Cela vous fait également penser comme s'il y avait des familles de champignons qui peuvent changer de couleur lorsqu'il y a une présence humaine. 
-
-#### 2.3 Installation en cours dans les studios
-
-- En studio, cette équipe a placé des ampoules et des sphères reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans le studio :
-
-  [![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
-
-#### 2.4 Schéma de l'installation prévue
-
-- Voici le plan d'installation prévu pour rendre l'ensemble du réseau de Nexum:
-
-   [![Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png](https://i.postimg.cc/SKgqF7Vr/Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png)](https://postimg.cc/06Kh7STM)
-
-#### 2.5 3 cours du programme qui sert à créer ce genre de projet
-
-- Audio 2 (des outils de création sonore à l'interactivité en temps réel).
-- Animation 2D (des animations fluides et synchronisées à partir des images).
-- Interactivité ludique (l'intégration des images et des échantillons sonores à travers de logiciels d’intégration multimédia).
-
-#### 2.6 Recherche d'une technique ou une composante technologique inconnu(e)
-
-#### Reaper:
-
-- Reaper (Rapid Environment for Audio Production, Engineering, and Recording) est un logiciel de MAO.  Reaper est disponible pour Microsoft Windows, en beta sous Linux et Mac OS X. 2
-
-[![reaper.png](https://i.postimg.cc/PrQZ6Nrw/reaper.png)](https://postimg.cc/hfhfvDmD)
-
-- Aussi, il propose aussi des fonctionnalités qui lui sont propres : la série de plug-ins d'effets Rea, une API d'effets nommée JS (pour Jesusonic) qui permet, au sein de Reaper, de développer ses propres effets audio. 2
-
-#### 2.7 Ressentiment vers l'expérimentation de l'installation
-
-- Je n'ai pas trop aimé l'expérimentation en studio car ça manquait beaucoup d'esthétisme (poteaux et ampoules en forme d'sphère) par manque de budget. Déjà sur scène, j'étais un peu mieux surpris. Cette œuvre a de la technologie (lumières et sons), mais je n'en voyais pas le côté nature (comme des plantes ou des autres choses), malgré tout, j'ai aimé le chemin qu'ils on fait avec ce projet, je pouvais automatiquement associer les ampoules comme des champignons. bref, j'ai l'impression que les créateurs en manquaient pour que nous, les spectateurs, nous sentions davantage dans un monde différent et ne soyons pas seulement entourés de lumières et de sons.
-
-> ### 3). Luma Sol
+> ### 2). Luma Sol
 
 [![Captura-de-Pantalla-2023-04-19-a-la-s-00-41-52.png](https://i.postimg.cc/mr1FwKc4/Captura-de-Pantalla-2023-04-19-a-la-s-00-41-52.png)](https://postimg.cc/B8s6ZYc7)
 
-#### 3.1 Realisé par:
+#### 2.1 Realisé par:
 
 - Éloise Gagné
 - Skayla Stimphil
 - Michael Simard 
 - Pénélope Morrisson_
 
-#### 3.2 lien avec le thème Mycélium
+#### 2.2 lien avec le thème Mycélium
 
-#### 3.3 Installation en cours dans les studios
+#### 2.3 Installation en cours dans les studios
 
 - En studio, L'équipe Luma Sol a installé un vélo stationnaire de gym, des dispositifs techniques, des outils, d'haut-parleurs, un réseau d'ampoules et de câbles pour former la connexion entre les lumières et le vélo qui donnera l'énergie. Voici ce qu'ils ont fait comme preuve dans le studio :
 
 [![IMG-6089.jpg](https://i.postimg.cc/qMxwh1G1/IMG-6089.jpg)](https://postimg.cc/PPNY0z9D)
 
-#### 3.4 Schéma de l'installation prévue
+#### 2.4 Schéma de l'installation prévue
 
 - Voici le plan d'installation prévu pour rendre l'ensemble du réseau de Luma sol:
 
   [![Captura-de-Pantalla-2023-03-09-a-la-s-10-57-46.png](https://i.postimg.cc/mDjb96mv/Captura-de-Pantalla-2023-03-09-a-la-s-10-57-46.png)](https://postimg.cc/BL899N9p)
 
-#### 3.5 3 cours du programme qui sert à créer ce genre de projet
+#### 2.5 3 cours du programme qui sert à créer ce genre de projet
 
 - Modélisation 3D (Créativité et différents effets de texture et de lumière pour réaliser des objets réalistes avec des logiciels de modélisation 3D)
 - Objets interactifs (Connaître les technologies électroniques: capteurs, microcontrôleurs, DEL, microprogrammation, microordinateur, etc.)
 - Installation multimédia (utilisation de la projection vidéo, la lumière scénique et la spatialisation sonore)
 
-#### 3.6 Recherche d'une technique ou une composante technologique inconnu(e)
+#### 2.6 Recherche d'une technique ou une composante technologique inconnu(e)
 
 #### Visual Studio Code:
 
@@ -138,7 +91,54 @@
 
 - De plus, Il peut être utilisé avec une variété de langages de programmation, notamment Java, JavaScript, Go, etc. Il est basé sur le cadre Electron, qui est utilisé pour développer des applications Web Node.js qui s'exécutent sur le moteur de présentation Blink. 3
 
+#### 2.7 Ressentiment vers l'expérimentation de l'installation
+
+> ### 3). Nexum
+
+[![Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png](https://i.postimg.cc/WpfvKTsy/Captura-de-Pantalla-2023-03-26-a-la-s-23-20-21.png)](https://postimg.cc/dDdpZMkR)
+
+#### 3.1 Realisé par:
+
+- Sébastien Reilly
+- Sabrina Laforest
+- Alexandre Daniel
+- Maxime Des Lauriers
+
+#### 3.2 lien avec le thème Mycélium
+
+- Le parcours de Nexum vous plonge dans un chemin interactif rempli de lumières, haut-parleurs et capteurs. La présence des sphères et des ampoules amène les participants à découvrir un espace magique où poussent des petits et des grands champignons. Nexum est là pour faire revivre un monde imaginaire transmettant une ambiance musicale qui montrent une nature sage à travers les animations. Cela vous fait également penser comme s'il y avait des familles de champignons qui peuvent changer de couleur lorsqu'il y a une présence humaine. 
+
+#### 3.3 Installation en cours dans les studios
+
+- En studio, cette équipe a placé des ampoules et des sphères reliées à d'autres formant un réseau, a installé deux capteurs et deux petits haut-parleurs ainsi qu'une table et un ordinateur qui seraient le centre de contrôle. Voici ce qu'ils ont fait comme preuve dans le studio :
+
+  [![IMG-6088.jpg](https://i.postimg.cc/brTnJBjb/IMG-6088.jpg)](https://postimg.cc/LgJ5Qv56)
+
+#### 3.4 Schéma de l'installation prévue
+
+- Voici le plan d'installation prévu pour rendre l'ensemble du réseau de Nexum:
+
+   [![Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png](https://i.postimg.cc/SKgqF7Vr/Captura-de-Pantalla-2023-03-08-a-la-s-15-06-54.png)](https://postimg.cc/06Kh7STM)
+
+#### 3.5 3 cours du programme qui sert à créer ce genre de projet
+
+- Audio 2 (des outils de création sonore à l'interactivité en temps réel).
+- Animation 2D (des animations fluides et synchronisées à partir des images).
+- Interactivité ludique (l'intégration des images et des échantillons sonores à travers de logiciels d’intégration multimédia).
+
+#### 3.6 Recherche d'une technique ou une composante technologique inconnu(e)
+
+#### Reaper:
+
+- Reaper (Rapid Environment for Audio Production, Engineering, and Recording) est un logiciel de MAO.  Reaper est disponible pour Microsoft Windows, en beta sous Linux et Mac OS X. 2
+
+[![reaper.png](https://i.postimg.cc/PrQZ6Nrw/reaper.png)](https://postimg.cc/hfhfvDmD)
+
+- Aussi, il propose aussi des fonctionnalités qui lui sont propres : la série de plug-ins d'effets Rea, une API d'effets nommée JS (pour Jesusonic) qui permet, au sein de Reaper, de développer ses propres effets audio. 2
+
 #### 3.7 Ressentiment vers l'expérimentation de l'installation
+
+- Je n'ai pas trop aimé l'expérimentation en studio car ça manquait beaucoup d'esthétisme (poteaux et ampoules en forme d'sphère) par manque de budget. Déjà sur scène, j'étais un peu mieux surpris. Cette œuvre a de la technologie (lumières et sons), mais je n'en voyais pas le côté nature (comme des plantes ou des autres choses), malgré tout, j'ai aimé le chemin qu'ils on fait avec ce projet, je pouvais automatiquement associer les ampoules comme des champignons. bref, j'ai l'impression que les créateurs en manquaient pour que nous, les spectateurs, nous sentions davantage dans un monde différent et ne soyons pas seulement entourés de lumières et de sons.
 
 
 > ### 4). Echomarine
