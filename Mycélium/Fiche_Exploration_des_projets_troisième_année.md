@@ -184,6 +184,8 @@
 
 #### 4.7 Ressentiment vers l'expérimentation de l'installation
 
+- J'ai mis ce projet en dernier car il ne m'a pas tellement surpris quand je l'ai vu. C'est une œuvre interactive que l'on peut voir et dont on peut dire qu'elle est très commune aujourd'hui. interagir avec un écran pour voir des objets, des animaux ou des choses en mouvement est quelque chose que j'ai déjà vu plusieurs fois, mais néanmoins c'était un très beau projet dans le sens de sensibiliser les gens avec la nature. Par contre, j'ai apprécié et j'ai été contente de voir que ce projet était créé uniquement par des filles et c'est une avancée pour montrer que les femmes aussi sont capablesde réaliser une oeuvre de ce style. Bref, une autre chose que j'ai aussi aimée était le processus dans chacune des applications qu'elles ont utilisées.
+
 
 ### Sources: 
 
