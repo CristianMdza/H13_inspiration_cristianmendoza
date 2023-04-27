@@ -63,6 +63,8 @@
 
 #### 2.2 lien avec le thème Mycélium
 
+- Luma sol démontre qu'il s'agit d'une expérience de contact positive, car par l'effort (pédaler le vélo) l'humain va découvrir et interagir, sans nuire à l'environnement, une nature lumineuse et inconnue. À travers un arbre plein de lumières et de champignons en forme de sphères, ce projet immergera la personne dans toutes les saisons climatiques (hiver, printemps, été et automne) avec chaque tématique de lumières et variété de sons. 
+
 #### 2.3 Installation en cours dans les studios
 
 - En studio, L'équipe Luma Sol a installé un vélo stationnaire de gym, des dispositifs techniques, des outils, d'haut-parleurs, un réseau d'ampoules et de câbles pour former la connexion entre les lumières et le vélo qui donnera l'énergie. Voici ce qu'ils ont fait comme preuve dans le studio :
