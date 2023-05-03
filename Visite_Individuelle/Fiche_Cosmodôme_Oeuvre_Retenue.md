@@ -53,7 +53,7 @@
 
 - Cette exposition se trouve au Cosmodôme, un musée des sciences spatiales. Les missions virtuelles occupent une petite partie du musée et l'entrée de celles-ci sont à côté de l'exposition "Observer le ciel", tout devant la billetterie et la grande navette spatiale. 
 
-  
+  [![Entree-aux-missions-virtuelles.jpg](https://i.postimg.cc/jS2XgvdS/Entree-aux-missions-virtuelles.jpg)](https://postimg.cc/QFL1VQT2)
   > #### Photo de l'entrée aux Missions Virtuelles prise par moi
 
   [![Navette-spatiale.jpg](https://i.postimg.cc/0yv6ryhR/Navette-spatiale.jpg)](https://postimg.cc/dLWQxwq4)
