@@ -10,12 +10,12 @@
 
 - Au Cosmodôme, musée scientifique basé sur l'espace et l'exploration spatiale, à Laval.
 
-  [![Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png](https://i.postimg.cc/1zHpzv5q/Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png)](https://postimg.cc/XZrZHc5j)
-  > #### Photo prise sur le site web de vergo.com
+[![Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png](https://i.postimg.cc/1zHpzv5q/Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png)](https://postimg.cc/XZrZHc5j)
+> #### Photo prise sur le site web de vergo.com
 
 
-  [![IMG-6459.jpg](https://i.postimg.cc/Hkt2JY6n/IMG-6459.jpg)](https://postimg.cc/ZWC32Stz)
-  > #### Photo prise par moi
+[![IMG-6459.jpg](https://i.postimg.cc/Hkt2JY6n/IMG-6459.jpg)](https://postimg.cc/ZWC32Stz)
+> #### Photo prise par moi
   
   
   [![IMG-6525.jpg](https://i.postimg.cc/mrNSHbVh/IMG-6525.jpg)](https://postimg.cc/mckMxWvG)
