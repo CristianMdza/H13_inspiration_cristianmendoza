@@ -47,7 +47,7 @@
 
 ### Type d'installation
 
-- L'installation de cette exposition est immersive et interactive. 
+- Le type d'installation de cette exposition est immersive et interactive. 
 
 ### Mise en espace
 
