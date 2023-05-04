@@ -43,7 +43,11 @@
 
 ### Description de l'oeuvre
 
-- La pièce "Le Rêve Impossible" est une aventure virtuelle et interactive vers la lune. Celle-ci est composée de 6 pièces reliées par des couloirs très futuristes qui vous font vous sentir à l'intérieur d'un vaisseau spatial. Au sein de celles-ci, il y aura soit une vidéo cinématographique, soit un jeu (une mission), où les personnes, seules ou en équipe, acquerront des connaissances sur les débuts de l'exploration spatiale et seront immergées dans la réalisation de tâches scientifiques dans l'espace. Au contraire, les activités dans chaque salle ont un temps de 10 min. Tout cela, avec l'objectif que les spectateurs aient le privilège de ressentir et de vivre l'expérience d'un astronaute.
+- La pièce "Le Rêve Impossible" est une aventure virtuelle et interactive vers la lune. Celle-ci est composée de 6 pièces reliées par des couloirs très futuristes qui vous font vous sentir à l'intérieur d'une navette spatial. Au sein de celles-ci, il y aura soit une vidéo cinématographique, soit un jeu (une mission), où les personnes, seules ou en équipe, acquerront des connaissances sur les débuts de l'exploration spatiale et seront immergées dans la réalisation de tâches scientifiques dans l'espace. Au contraire, les activités dans chaque salle ont un temps de 10 min. Tout cela, avec l'objectif que les spectateurs aient le privilège de ressentir et de vivre l'expérience d'un astronaute.
+
+[![Photo-du-couloir.jpg](https://i.postimg.cc/2SZ57gCh/Photo-du-couloir.jpg)](https://postimg.cc/zyq5JtbG)
+
+[![Troisieme-salle-ecran-interactif.jpg](https://i.postimg.cc/tgRcbnhS/Troisieme-salle-ecran-interactif.jpg)](https://postimg.cc/Sn5d7s1C)
 
 ### Type d'installation
 
@@ -78,8 +82,6 @@
 #### 3ème Salle
 
 [![Troisieme-salle-interactive-audiovisuelle.jpg](https://i.postimg.cc/59XZjzDD/Troisieme-salle-interactive-audiovisuelle.jpg)](https://postimg.cc/YjwXsvrx)
-
-[![Troisieme-salle-ecran-interactif.jpg](https://i.postimg.cc/tgRcbnhS/Troisieme-salle-ecran-interactif.jpg)](https://postimg.cc/Sn5d7s1C)
 
 [![Troisieme-salle-mission-voyage-lune-interactive.jpg](https://i.postimg.cc/qMfZR5sC/Troisieme-salle-mission-voyage-lune-interactive.jpg)](https://postimg.cc/BtgC7Nwq)
 
