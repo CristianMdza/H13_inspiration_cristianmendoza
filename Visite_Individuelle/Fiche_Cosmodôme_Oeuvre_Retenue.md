@@ -60,7 +60,7 @@
   [![Entree-aux-missions-virtuelles.jpg](https://i.postimg.cc/jS2XgvdS/Entree-aux-missions-virtuelles.jpg)](https://postimg.cc/QFL1VQT2)
   
 
-- D'autre part, chacune des salles est équipée en fonction du défi. En général, ils sont équipés d'écrans interactifs, de haut-parleurs, de capteurs de porte, de projecteurs, de conception différente d'architecture futuriste ou comme s'il s'agissait de salles d'un véritable centre de commandement de la NASA, de chaises, de lumières bleues ou blanches et de commandes de détection.
+- D'autre part, chacune des salles est équipée en fonction du défi. En général, ils sont équipés d'écrans interactifs, de haut-parleurs, de capteurs de porte, de projecteurs, de conception différente d'architecture futuriste ou comme s'il s'agissait de salles d'un véritable centre de commandes de la NASA, de chaises, de lumières bleues ou blanches et de commandes de détection.
 
   [![Navette-spatiale.jpg](https://i.postimg.cc/0yv6ryhR/Navette-spatiale.jpg)](https://postimg.cc/dLWQxwq4)
   
