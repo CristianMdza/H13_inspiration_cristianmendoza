@@ -19,7 +19,7 @@
   
   
   [![IMG-6525.jpg](https://i.postimg.cc/mrNSHbVh/IMG-6525.jpg)](https://postimg.cc/mckMxWvG)
-  > #### Photo prise par moi
+  
 
 ### Type d'exposition 
 
@@ -58,10 +58,12 @@
 - Cette exposition se trouve au Cosmodôme, un musée des sciences spatiales. Les missions virtuelles occupent une petite partie du musée et l'entrée de celles-ci sont à côté de l'exposition "Observer le ciel", tout devant la billetterie et la grande navette spatiale. 
 
   [![Entree-aux-missions-virtuelles.jpg](https://i.postimg.cc/jS2XgvdS/Entree-aux-missions-virtuelles.jpg)](https://postimg.cc/QFL1VQT2)
-  > #### Photo de l'entrée aux Missions Virtuelles prise par moi
+  
+
+- D'autre part, chacune des salles est équipée en fonction du défi. En général, ils sont équipés d'écrans interactifs, de haut-parleurs, de capteurs de porte, de projecteurs, de conception différente d'architecture futuriste ou comme s'il s'agissait de salles d'un véritable centre de commandement de la NASA, de chaises, de lumières bleues ou blanches et de commandes de détection.
 
   [![Navette-spatiale.jpg](https://i.postimg.cc/0yv6ryhR/Navette-spatiale.jpg)](https://postimg.cc/dLWQxwq4)
-  > #### Photo de la Navette Spatiale prise par moi
+  
 
 ### Composantes et techniques
 
