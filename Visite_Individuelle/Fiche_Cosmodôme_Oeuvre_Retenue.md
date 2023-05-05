@@ -15,7 +15,7 @@
 
 
   [![IMG-6459.jpg](https://i.postimg.cc/Hkt2JY6n/IMG-6459.jpg)](https://postimg.cc/ZWC32Stz)
-  > #### Photo prise par moi
+  
   
   
   [![IMG-6525.jpg](https://i.postimg.cc/mrNSHbVh/IMG-6525.jpg)](https://postimg.cc/mckMxWvG)
