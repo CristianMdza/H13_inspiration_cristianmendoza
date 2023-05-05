@@ -107,7 +107,7 @@
 
 [![Sixieme-salle-video-conclusion.jpg](https://i.postimg.cc/fRqc3VGg/Sixieme-salle-video-conclusion.jpg)](https://postimg.cc/sMSQqgDp)
 
-### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
+### Ce qui  m'a plu
 
 ### Aspect pas souhaité à retenir ou Aspect que je fairais autrement
 
