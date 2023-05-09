@@ -110,9 +110,9 @@
 
 #### 5ème Salle
 
-- Dans ce 5ème module, j'ai fait la 3ème et dernière mission. Là, je devais construire la station spatiale internationale (SSI).
+- Dans ce 5ème module, j'ai fait la 3ème et dernière mission. Là, je devais assembler la station spatiale internationale (SSI).
 
--   Le jeu consistait à retrouver chaque pièce dans les petites images qui se trouvaient sur les murs, à scanner l'image avec le bracelet, puis à se rendre sur la table interactive au centre pour l'ajouter à la construction jusqu'à terminer la SSI.
+-   Le jeu consistait à retrouver chaque pièce dans les petites images qui se trouvaient sur les murs, à scanner l'image avec le bracelet, puis à se rendre sur la table interactive au centre pour l'ajouter à l'assemblage jusqu'à terminer la SSI.
 
 - Bref, j'ai terminé la tâche et j'ai appris que cette station spatiale était une collaboration multinationale entre les cinq agences spatiales : NASA (États-Unis), Roscosmos (Russie), JAXA (Japon), ESA (Europe) et CSA/ASC (Canada).
 
