@@ -1,6 +1,6 @@
 # Mission Virtuelle "Le rêve impossible."
 
-[![Captura-de-Pantalla-2023-04-20-a-la-s-00-19-34.png](https://i.postimg.cc/QMVzgK9V/Captura-de-Pantalla-2023-04-20-a-la-s-00-19-34.png)](https://postimg.cc/PLsKTxMk)
+  [![Captura-de-Pantalla-2023-04-20-a-la-s-00-19-34.png](https://i.postimg.cc/QMVzgK9V/Captura-de-Pantalla-2023-04-20-a-la-s-00-19-34.png)](https://postimg.cc/PLsKTxMk)
 
 ### Nom de l'exposition ou de l'événement:
 
