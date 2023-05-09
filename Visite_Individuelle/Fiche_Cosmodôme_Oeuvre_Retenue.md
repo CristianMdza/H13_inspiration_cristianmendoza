@@ -41,7 +41,7 @@
 
 ### Année de réalisation
 
-- Cette exposition a été réalisée en 2014.
+- Cette exposition a été réalisée en 2011.
 
 ### Description de l'oeuvre
 
