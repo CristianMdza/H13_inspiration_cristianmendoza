@@ -39,7 +39,7 @@
 
 ### Année de réalisation
 
-- Il n'y a pas.
+- Cette expositiona été réalisée en 2014.
 
 ### Description de l'oeuvre
 
@@ -71,11 +71,17 @@
 
 ### Expérience vécue
 
+- Mon expérience a été excellente même si c'était seul. Là, j'ai appris de grandes choses liées à l'histoire astronautique à travers des documentaires et des jeux interactifs dans chaque salle. Une fois mon billet acheté, à l'entrée de la mission, j'ai enregistré mon bracelet à mon nom puis j'ai embarqué dans la mission virtuelle.
+
 #### 1ère Salle
+
+- D'une part, une vidéo d'introduction a été diffusée qui m'a envoyé dans les années 60, moment où l'humanité commençait un processus qui conduirait à la conquête de la Lune. De plus, ils racontaient l'histoire du voyage des astronautes américains Neil Armstrong et Buzz Aldrin qui ont été les premiers hommes à marcher sur la lune le 20 juillet 1969, époque du mandat du président John F Kennedy.
 
 [![Premiere-salle-audiovisuelle-introduction-des-astronautes.jpg](https://i.postimg.cc/fTFpxbQk/Premiere-salle-audiovisuelle-introduction-des-astronautes.jpg)](https://postimg.cc/rK1fTMmL)
 
 #### 2ème Salle
+
+- Dans cette salle, j'ai regardé un documentaire sur la création de fusées et les dates de lancements de navettes spatiales qui sont tombés à cause de problèmes techniques, comme c'était le 28 janvier 1986 et le 1er février 2003.
 
 [![Deuxieme-salle-audiovisuelle-documentation-des-fusees.jpg](https://i.postimg.cc/dtzNhSGy/Deuxieme-salle-audiovisuelle-documentation-des-fusees.jpg)](https://postimg.cc/gnHH5sSz)
 
