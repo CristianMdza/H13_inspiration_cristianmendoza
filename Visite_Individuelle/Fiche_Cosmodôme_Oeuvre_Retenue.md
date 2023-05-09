@@ -97,7 +97,11 @@
 
 #### 4ème Salle
 
+- Dans ce module, j'ai dû regarder une autre courte vidéo qui expliquait les instructions de la mission Hubble. Ce dernier s'appelait "Hubble" en l'honneur de l'astronome Edwin Hubble. C'est un télescope spatial qui a été placé par la NASA et l'agence spatiale européenne en orbite terrestre.
+
 [![Quatrieme-salle-interactive-audiovisuelle.jpg](https://i.postimg.cc/rpYfLnys/Quatrieme-salle-interactive-audiovisuelle.jpg)](https://postimg.cc/JyZNNQkC)
+
+- La tâche était de réparer ou de remplacer les pièces endommagées du télescope.
 
 [![Quatrieme-salle-mission-telescope-spatial.jpg](https://i.postimg.cc/cHgX1R6m/Quatrieme-salle-mission-telescope-spatial.jpg)](https://postimg.cc/2bY42BQb)
 
