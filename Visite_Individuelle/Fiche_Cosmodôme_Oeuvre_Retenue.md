@@ -89,6 +89,8 @@
 
 #### 3ème Salle
 
+- Après ces deux vidéos d'introduction, je suis entré dans la troisième salle où j'ai eu l'occasion de me sentir comme un astronaute. Pour cela je devais écouter les ordres d'une vidéo puis sur l'écran je devais déployer la fusée dans l'espace et l'emmener vers la lune.
+
 [![Troisieme-salle-interactive-audiovisuelle.jpg](https://i.postimg.cc/59XZjzDD/Troisieme-salle-interactive-audiovisuelle.jpg)](https://postimg.cc/YjwXsvrx)
 
 [![Troisieme-salle-mission-voyage-lune-interactive.jpg](https://i.postimg.cc/qMfZR5sC/Troisieme-salle-mission-voyage-lune-interactive.jpg)](https://postimg.cc/BtgC7Nwq)
