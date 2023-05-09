@@ -13,10 +13,8 @@
   [![Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png](https://i.postimg.cc/1zHpzv5q/Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png)](https://postimg.cc/XZrZHc5j)
   > #### Photo prise sur le site web de vergo.com
 
-
-  [![IMG-6459.jpg](https://i.postimg.cc/Hkt2JY6n/IMG-6459.jpg)](https://postimg.cc/ZWC32Stz)
-  
-  
+  [![Photo-expositions-systeme-solaire.jpg](https://i.postimg.cc/VvWgRkrk/Photo-expositions-systeme-solaire.jpg)](https://postimg.cc/gLr3cdHC)
+  > #### Expositions du Système Solaire
   
   [![IMG-6525.jpg](https://i.postimg.cc/mrNSHbVh/IMG-6525.jpg)](https://postimg.cc/mckMxWvG)
   
@@ -25,6 +23,8 @@
 
 - C'est une exposition permanente, virtuelle et intérieure. 
 
+[![Photo-de-moi-dans-l-exposition.jpg](https://i.postimg.cc/13jQHCPq/Photo-de-moi-dans-l-exposition.jpg)](https://postimg.cc/68ng6h8W)
+
 ### Date de la visite
 
 - Mercredi 12 avril 2023.
@@ -32,6 +32,8 @@
 ### Titre de l'oeuvre
 
 - Le rêve impossible. 
+
+[![Photo-d-astronaute.jpg](https://i.postimg.cc/MKJmFVq3/Photo-d-astronaute.jpg)](https://postimg.cc/XXx5ZZZ9)
 
 ### Nom de l'artiste ou createur
 
@@ -63,6 +65,7 @@
 - D'autre part, chacune des salles est équipée en fonction du défi. En général, ils sont équipés d'écrans interactifs, de haut-parleurs, de capteurs de porte, de projecteurs, de conception différente d'architecture futuriste ou comme s'il s'agissait de salles d'un véritable centre de commandes de la NASA, de chaises, de lumières bleues ou blanches et de commandes de détection.
 
   [![Navette-spatiale.jpg](https://i.postimg.cc/0yv6ryhR/Navette-spatiale.jpg)](https://postimg.cc/dLWQxwq4)
+  > #### Réplique grandeur nature de la Navette Spatiale "Endeavour"
   
 
 ### Composantes et techniques
