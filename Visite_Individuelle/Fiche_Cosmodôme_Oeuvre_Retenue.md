@@ -126,7 +126,7 @@
 
   [![S-xieme-salle-audiovisuelle.jpg](https://i.postimg.cc/tCyt8QdD/S-xieme-salle-audiovisuelle.jpg)](https://postimg.cc/w3fmsrGs)
 
- [![Sixieme-salle-video-conclusion.jpg](https://i.postimg.cc/fRqc3VGg/Sixieme-salle-video-conclusion.jpg)](https://postimg.cc/sMSQqgDp)
+  [![Sixieme-salle-video-conclusion.jpg](https://i.postimg.cc/fRqc3VGg/Sixieme-salle-video-conclusion.jpg)](https://postimg.cc/sMSQqgDp)
 
 ### Ce qui  m'a plu
 
