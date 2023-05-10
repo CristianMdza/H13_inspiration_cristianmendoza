@@ -8,7 +8,7 @@
 
 ### Lieu de mise en exposition
 
-- Au Cosmodôme, musée scientifique basé sur l'espace et l'exploration spatiale, à Laval.
+- Au Cosmodôme, musée scientifique basé sur l'espace et l'exploration spatiale,celui-ci situé à la ville de Laval au Québec, Canada.
 
   [![Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png](https://i.postimg.cc/1zHpzv5q/Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png)](https://postimg.cc/XZrZHc5j)
   > #### Photo prise sur le site web de vergo.com
