@@ -72,6 +72,17 @@
 
 ### Éléments nécessaires à la mise en exposition
 
+- 6 salles.
+- Des couloirs. 
+- 2 projecteurs.
+- 16 mini-écrans.
+- 6 écrans moyens.
+- 16 écrans interactifs. 
+- 1 table interactive.
+- 2 grands écrans.
+- 14 haut-parleurs.
+- Des bracelets.
+
 ### Expérience vécue
 
 - Mon expérience a été excellente même si c'était seul. Là, j'ai appris de grandes choses liées à l'histoire astronautique à travers des documentaires et des jeux interactifs dans chaque salle. Une fois mon billet acheté, à l'entrée de la mission, j'ai enregistré mon bracelet à mon nom puis j'ai embarqué dans la mission virtuelle.
