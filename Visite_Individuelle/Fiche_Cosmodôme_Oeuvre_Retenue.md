@@ -70,6 +70,18 @@
 
 ### Composantes et techniques
 
+Pour effectuer cette mission virtuelle dans les 6 salles, ils avaient besoin des composants suivants:
+
+- Des simulations de jeux vidéo.
+- 16 écrans intelligents-interactifs.
+- Documentaires.
+- Logiciels pour la création de jeux vidéo. 
+- Lumières led et de différentes couleurs. 
+- Détecteurs (pour reconnaître le bracelet)
+- 14 haut-parleurs.
+- 2 projecteurs. 
+
+
 ### Éléments nécessaires à la mise en exposition
 
 - 6 salles, chacune avec un environnement différent.
@@ -77,7 +89,7 @@
 - 2 projecteurs.
 - 16 mini-écrans.
 - 6 écrans moyens.
-- 16 écrans interactifs. 
+- 16 écrans intelligents-interactifs. 
 - 1 table interactive.
 - 2 grands écrans.
 - 14 haut-parleurs.
