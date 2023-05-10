@@ -84,7 +84,7 @@ Pour effectuer cette mission virtuelle dans les 6 salles, ils avaient besoin des
 
 ### Éléments nécessaires à la mise en exposition
 
-Pour effectuer cette mission virtuelle dans les 6 salles, ils avaient besoin des éléments suivants:
+Afin de réaliser cette mission virtuelle dans les 6 salles, ils avaient besoin des éléments suivants:
 
 - 6 salles, chacune avec un environnement différent.
 - Des couloirs. 
