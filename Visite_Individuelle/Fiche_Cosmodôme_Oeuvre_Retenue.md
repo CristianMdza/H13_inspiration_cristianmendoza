@@ -72,7 +72,7 @@
 
 ### Éléments nécessaires à la mise en exposition
 
-- 6 salles.
+- 6 salles, chacune avec un environnement différent.
 - Des couloirs. 
 - 2 projecteurs.
 - 16 mini-écrans.
