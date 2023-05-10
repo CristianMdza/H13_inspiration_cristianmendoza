@@ -149,6 +149,8 @@ Afin de réaliser cette mission virtuelle dans les 6 salles, ils avaient besoin 
 
 #### 6ème Salle
 
+- Cette dernière salle était la conclusion de la mission virtuelle. Là, j'ai vu un documentaire où ils montraient les avancées astronautiques, les grands voyages de fusées dans l'espace et l'importance de cette science pour l'humanité.
+
   [![S-xieme-salle-audiovisuelle.jpg](https://i.postimg.cc/tCyt8QdD/S-xieme-salle-audiovisuelle.jpg)](https://postimg.cc/w3fmsrGs)
 
   [![Sixieme-salle-video-conclusion.jpg](https://i.postimg.cc/fRqc3VGg/Sixieme-salle-video-conclusion.jpg)](https://postimg.cc/sMSQqgDp)
