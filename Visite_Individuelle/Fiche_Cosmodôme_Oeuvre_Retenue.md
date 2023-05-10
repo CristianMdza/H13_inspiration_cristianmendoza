@@ -171,5 +171,7 @@ J'ai trop aimé:
 
 ### Liens avec d'autre oeuvre
 
-Ça serait Écho-marin, cela partage des éléments comme variété de sons, l'utilisation des projecteurs et surtout l'interaction entre le spectateur et les écrans. Aussi, prendre connaissances et comprendre le sujet principal de l'oeuvre à travers de descriptions et animations audiovisuelles. 
+- Ça serait Échomarine, cela partage des éléments comme variété de sons, l'utilisation des projecteurs et surtout l'interaction entre le spectateur et les écrans. Aussi, prendre connaissances et comprendre le sujet principal de l'oeuvre à travers de descriptions et animations audiovisuelles. 
+
+  [![Lien-echo-marine.jpg](https://i.postimg.cc/qBGSZyfr/Lien-echo-marine.jpg)](https://postimg.cc/9zrLD4Fg)
 
