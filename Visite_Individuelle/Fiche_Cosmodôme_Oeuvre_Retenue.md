@@ -41,7 +41,7 @@
 
 ### Année de réalisation
 
-- Cette exposition a été réalisée en 2011.
+- Cette exposition a été réalisée en 2011 et était inaugurée en 2012 au Cosmodôme.
 
 ### Description de l'oeuvre
 
