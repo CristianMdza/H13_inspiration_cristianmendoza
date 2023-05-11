@@ -109,7 +109,7 @@ Afin de réaliser cette mission virtuelle dans les 6 salles, ils avaient besoin 
 
 #### 1ère Salle
 
-- D'une part, une vidéo d'introduction a été diffusée qui m'a envoyé dans les années 60, moment où l'humanité commençait un processus qui conduirait à la conquête de la Lune. De plus, ils racontaient l'histoire du voyage des astronautes américains Neil Armstrong et Buzz Aldrin qui ont été les premiers hommes à marcher sur la lune le 20 juillet 1969, époque du mandat du président John F Kennedy.
+- D'une part, une vidéo d'introduction a été diffusée et elle m'a envoyé dans les années 60, moment où l'humanité commençait un processus qui conduirait à la conquête de la Lune. De plus, ils racontaient l'histoire du voyage des astronautes américains Neil Armstrong et Buzz Aldrin qui ont été les premiers hommes à marcher sur la lune le 20 juillet 1969, époque du mandat du président John F Kennedy.
 
   [![Premiere-salle-audiovisuelle-introduction-des-astronautes.jpg](https://i.postimg.cc/fTFpxbQk/Premiere-salle-audiovisuelle-introduction-des-astronautes.jpg)](https://postimg.cc/rK1fTMmL)
 
