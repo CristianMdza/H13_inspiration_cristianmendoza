@@ -15,9 +15,9 @@
 
 #### Historique du Musée
 
-- Le Cosmodôme de Laval a été inauguré en 1994. De plus, c'est la seule institution au Canada qui se consacre entièrement à la diffusion plus large des sciences spatiales.
+- Le Cosmodôme de Laval a été inauguré en 1994. De plus, c'est la seule institution au Canada qui se consacre entièrement à la diffusion plus large des sciences spatiales. 1
 
-- Aussi, ce musée de l'espace est reconnu comme le principal acteur régional de la culture scientifique et du tourisme de loisirs. Il fait partie des équipements métropolitains de la Communauté métropolitaine de Montréal.
+- Aussi, ce musée de l'espace est reconnu comme le principal acteur régional de la culture scientifique et du tourisme de loisirs. Il fait partie des équipements métropolitains de la Communauté métropolitaine de Montréal. 1
 
   [![Photo-expositions-systeme-solaire.jpg](https://i.postimg.cc/VvWgRkrk/Photo-expositions-systeme-solaire.jpg)](https://postimg.cc/gLr3cdHC)
   > #### Expositions du Système Solaire
