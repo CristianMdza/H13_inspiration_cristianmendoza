@@ -13,6 +13,12 @@
   [![Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png](https://i.postimg.cc/1zHpzv5q/Captura-de-Pantalla-2023-04-20-a-la-s-00-27-00.png)](https://postimg.cc/XZrZHc5j)
   > #### Photo prise sur le site web de vergo.com
 
+#### Historique du Musée
+
+- Le Cosmodôme de Laval a été inauguré en 1994. De plus, c'est la seule institution au Canada qui se consacre entièrement à la diffusion plus large des sciences spatiales.
+
+- Aussi, ce musée de l'espace est reconnu comme le principal acteur régional de la culture scientifique et du tourisme de loisirs. Il fait partie des équipements métropolitains de la Communauté métropolitaine de Montréal.
+
   [![Photo-expositions-systeme-solaire.jpg](https://i.postimg.cc/VvWgRkrk/Photo-expositions-systeme-solaire.jpg)](https://postimg.cc/gLr3cdHC)
   > #### Expositions du Système Solaire
   
